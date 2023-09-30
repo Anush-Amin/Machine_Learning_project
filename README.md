@@ -34,7 +34,7 @@ if __name__=="__main__":
         raise CustomException(e, sys)
 * run the exception file using terminal: python src/exception.py
 * if exception is raised in the terminal in the format specified in exception.py code that means code is working fine
-15) In this project EDA is done in notebook inside VS code, but its best to EDA in external jupyter only
+15) EDA can done in notebook inside VS code, but its best to do EDA in external jupyter.
 16) In the data_ingestion.py file, write the code to read the data, split the data into train and test set and return it.
 * write the following code at the end of data_ingestion.py file to test this file (delete these lines of code after checking)
 if __name__=="__main__":
