@@ -7,7 +7,7 @@ conda activate venv/
 2) Create the .gitignore file and add venv inside it so that while pushing the code into the repo, venv is not not pushed.
 3) Create the requirements.txt where all the required libraries to be installed are mentioned.
 Add -e . at the end of requirements.txt so that setup.py is triggered.
-4) Create the set.py file which will be helpful to create the machine learning application as package, maybe deploy to Pypi and install the packages by reading requirements.txt
+4) Create the set.py file which will be helpful to create the machine learning application as package, maybe deploy to Pypi and install the packages by reading requirements.txt. In setup.py we describe the meta-data of the project.
 5) Create src folder and __init__.py file inside. The project implemented will be inside this folder.
 6) Now in terminal enter:
 * pip install -r requirements.txt
