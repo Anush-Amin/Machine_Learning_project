@@ -4,35 +4,40 @@ from src.exception import CustomException
 from src.logger import logging
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from dataclasses import dataclass
-
-# if dataclass is used, no need to define variables in init function
-@dataclass
-class DataIngestionConfig():
-    train_data_path:str = os.path.join('artifacts', 'train.csv')
-    test_data_path:str = os.path.join('artifacts', 'test.csv')
-    raw_data_path:str = os.path.join('artifacts', 'data.csv')
+from src.components.data_transformation import DataTransformation
+from src.components.model_trainer import ModelTrainer
 
 class DataIngestion:
     def __init__(self):
-        self.ingestion_config = DataIngestionConfig()
+        self.train_data_path = os.path.join('artifacts', 'train.csv')
+        self.test_data_path = os.path.join('artifacts', 'test.csv')
+        self.raw_data_path = os.path.join('artifacts', 'data.csv')
 
     def initiate_data_ingestion(self):
         logging.info("Entered the data ingestion method")
         try:
-            df = pd.read_csv('data\EDA_5_data.csv')
+            # df = pd.read_csv('data\EDA_5_data.csv')
+            df = pd.read_csv('data\cleaned_zomato_data_2.csv')
+            logging.info(f"Columns: {df.columns}")
+            df.drop('name', inplace=True, axis=1)
             logging.info("Read the dataset as dataframe")
+            logging.info(f"Dataframe is: {df}")
 
-            os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
-            df.to_csv(self.ingestion_config.raw_data_path, index=False, header=True)
+            # make the directory for train data
+            os.makedirs(os.path.dirname(self.train_data_path), exist_ok=True)
+            # convert the dataframe df into csv and save it as data.csv
+            df.to_csv(self.raw_data_path, index=False, header=True)
+            
             logging.info("Train Test split initiated")
             train_set, test_set = train_test_split(df, test_size=0.2, random_state=42)
-            train_set.to_csv(self.ingestion_config.train_data_path, index=False, header=True)
-            test_set.to_csv(self.ingestion_config.test_data_path, index=False, header=True)
+            train_set.to_csv(self.train_data_path, index=False, header=True)
+            test_set.to_csv(self.test_data_path, index=False, header=True)
+
             logging.info("Ingestion of data is completed")
+
             return(
-                self.ingestion_config.train_data_path,
-                self.ingestion_config.test_data_path
+                self.train_data_path,
+                self.test_data_path
             )
         except Exception as e:
             logging.info(e)
@@ -41,4 +46,10 @@ class DataIngestion:
 
 if __name__=="__main__":
     obj = DataIngestion()
-    obj.initiate_data_ingestion()
+    # print(obj.initiate_data_ingestion())
+    train_data, test_data = obj.initiate_data_ingestion()
+    data_transformation = DataTransformation()
+    print(data_transformation.initiate_data_transformation(train_data, test_data))
+    # train_arr, test_arr, _ = data_transformation.initiate_data_transformation(train_data, test_data)
+    # modeltrainer = ModelTrainer()
+    # print(modeltrainer.initiate_model_trainer(train_arr, test_arr))
