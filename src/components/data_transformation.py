@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder,StandardScaler
+from sklearn.preprocessing import OneHotEncoder,StandardScaler, LabelEncoder
 
 from src.exception import CustomException
 from src.logger import logging
@@ -20,13 +20,12 @@ class DataTransformation:
     def get_data_transformer_object(self):
         '''
         This function is responsible for data transformation
-        
         '''
         try:
             numerical_columns = ['Indian_dish', 'Foreign_dish', 'Mixed_dish', 'votes', 'approx_cost(for two people)', 'has_phone']
             categorical_columns = ['online_order', 'book_table', 'listed_in(type)', 'listed_in(city)', 'restaurant_type']
-            # categorical_columns = ['restaurant_type', 'location']
             # numerical_columns = ['online_order', 'book_table', 'votes', 'approx_cost_for_two_people', 'has_phone']
+            # categorical_columns = ['restaurant_type', 'location']
 
             num_pipeline= Pipeline(
                 steps=[
@@ -38,7 +37,8 @@ class DataTransformation:
             cat_pipeline=Pipeline(
                 steps=[
                     ("imputer",SimpleImputer(strategy="most_frequent")),
-                    ("one_hot_encoder",OneHotEncoder()),
+                    #("one_hot_encoder",OneHotEncoder()),
+                    ("label_encoder", LabelEncoder()),
                     ("scaler",StandardScaler(with_mean=False))
                 ]
             )
@@ -81,23 +81,23 @@ class DataTransformation:
             logging.info("Applying preprocessing object on training dataframe and testing dataframe.")
 
             input_feature_train_arr=preprocessing_obj.fit_transform(input_feature_train_df)
+            # convert this to numpy array since its type is scipy.sparse.csr.csr_matrix
+            input_feature_train_arr = input_feature_train_arr.toarray()
             input_feature_test_arr=preprocessing_obj.transform(input_feature_test_df)
+            input_feature_test_arr = input_feature_test_arr.toarray()
 
-            logging.info(f"input_feature_train_arr shape: {input_feature_train_arr.shape}")
-            logging.info(f"target_feature_train_df shape: {target_feature_train_df.shape}")
-            logging.info(f"target_feature_train_df array shape: {len(np.array(target_feature_train_df))}")
-
-            logging.info(f"input_feature_train_arr: {input_feature_train_arr[0]}")
-            logging.info(f"target_feature_train_df: {np.array(target_feature_train_df)}")
-            logging.info(f"target_feature_train_df: {target_feature_train_df}")
+            # logging.info(f"input_feature_train_arr shape: {input_feature_train_arr.shape}")
+            # logging.info(f"input_feature_train_arr type: {type(input_feature_train_arr)}")
+            # logging.info(f"target_feature_train_df shape: {target_feature_train_df.shape}")
+            # logging.info(f"target_feature_train_df type: {type(target_feature_train_df)}")
+            
+            # logging.info(f"input_feature_train_arr: {input_feature_train_arr[0]}")
+            # logging.info(f"target_feature_train_df: {np.array(target_feature_train_df)}")
+            # logging.info(f"target_feature_train_df: {target_feature_train_df}")
 
             train_arr = np.c_[input_feature_train_arr, target_feature_train_df]
             test_arr = np.c_[input_feature_test_arr, target_feature_test_df]
-            # train_arr = np.c_[
-            #     input_feature_train_arr, np.array(target_feature_train_df)
-            # ]
-            # test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
-
+            
             logging.info(f"Saved preprocessing object.")
 
             save_object(
@@ -112,3 +112,4 @@ class DataTransformation:
             )
         except Exception as e:
             raise CustomException(e,sys)
+        

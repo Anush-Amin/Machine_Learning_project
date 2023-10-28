@@ -6,6 +6,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from src.components.data_transformation import DataTransformation
 from src.components.model_trainer import ModelTrainer
+from pymongo import MongoClient
 
 class DataIngestion:
     def __init__(self):
@@ -16,7 +17,6 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info("Entered the data ingestion method")
         try:
-            # df = pd.read_csv('data\EDA_5_data.csv')
             df = pd.read_csv('data\cleaned_zomato_data_2.csv')
             logging.info(f"Columns: {df.columns}")
             df.drop('name', inplace=True, axis=1)
@@ -46,10 +46,9 @@ class DataIngestion:
 
 if __name__=="__main__":
     obj = DataIngestion()
-    # print(obj.initiate_data_ingestion())
     train_data, test_data = obj.initiate_data_ingestion()
     data_transformation = DataTransformation()
-    print(data_transformation.initiate_data_transformation(train_data, test_data))
-    # train_arr, test_arr, _ = data_transformation.initiate_data_transformation(train_data, test_data)
-    # modeltrainer = ModelTrainer()
-    # print(modeltrainer.initiate_model_trainer(train_arr, test_arr))
+    train_arr, test_arr, _ = data_transformation.initiate_data_transformation(train_data, test_data)
+
+    model_trainer = ModelTrainer()
+    print(model_trainer.initiate_model_trainer(train_arr, test_arr))

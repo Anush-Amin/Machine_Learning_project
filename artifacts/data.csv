@@ -1239,7 +1239,7 @@ Yes,No,3.8,146,600.0,Delivery,Bannerghatta Road,1,Casual Dining,0,1,0
 Yes,No,5.0,0,250.0,Delivery,Bannerghatta Road,1,Quick Bites,0,0,1
 Yes,No,3.7,16,700.0,Delivery,Bannerghatta Road,1,Casual Dining,0,0,1
 Yes,No,5.0,0,400.0,Delivery,Bannerghatta Road,1,Quick Bites,1,0,0
-Yes,No,3.7142857142857135,0,350.0,Delivery,Bannerghatta Road,1,Quick Bites,0,1,0
+Yes,No,3.7142857142857144,0,350.0,Delivery,Bannerghatta Road,1,Quick Bites,0,1,0
 Yes,No,4.2,248,500.0,Delivery,Bannerghatta Road,1,mixed,0,1,0
 Yes,No,3.691216896431196,0,600.0,Delivery,Bannerghatta Road,1,Delivery,0,0,1
 Yes,No,3.7,67,150.0,Delivery,Bannerghatta Road,1,Delivery,1,0,0
@@ -2707,7 +2707,7 @@ Yes,No,3.7,237,200.0,Delivery,Basavanagudi,1,Quick Bites,0,0,1
 Yes,Yes,3.8,197,1000.0,Delivery,Basavanagudi,1,Pub,0,1,0
 Yes,No,3.9,133,800.0,Delivery,Basavanagudi,1,Cafe,0,1,0
 Yes,No,4.0,90,500.0,Delivery,Basavanagudi,1,Bakery,0,1,0
-Yes,No,2.333333333333333,0,350.0,Delivery,Basavanagudi,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Delivery,Basavanagudi,1,Bakery,0,1,0
 Yes,Yes,4.3,1252,800.0,Delivery,Basavanagudi,1,mixed,0,1,0
 Yes,No,4.1,796,400.0,Delivery,Basavanagudi,1,Cafe,0,1,0
 Yes,No,3.8,918,800.0,Delivery,Basavanagudi,1,mixed,0,1,0
@@ -4486,7 +4486,7 @@ Yes,No,3.0,0,300.0,Desserts,Bellandur,1,Dessert Parlor,0,1,0
 No,No,3.5,6,300.0,Desserts,Bellandur,1,Dessert Parlor,0,1,0
 No,No,3.7,36,400.0,Desserts,Bellandur,1,Bakery,0,1,0
 No,No,3.7,23,200.0,Desserts,Bellandur,1,mixed,0,1,0
-No,No,3.333333333333333,0,200.0,Desserts,Bellandur,1,Dessert Parlor,0,0,1
+No,No,3.3333333333333335,0,200.0,Desserts,Bellandur,1,Dessert Parlor,0,0,1
 Yes,No,3.8,72,300.0,Desserts,Bellandur,1,Kiosk,0,1,0
 No,No,5.0,0,400.0,Desserts,Bellandur,1,mixed,0,1,0
 Yes,No,3.7,48,250.0,Desserts,Bellandur,1,Dessert Parlor,0,1,0
@@ -5425,7 +5425,7 @@ Yes,No,3.7,66,800.0,Delivery,Brigade Road,1,Cafe,0,1,0
 Yes,No,3.6,95,650.0,Delivery,Brigade Road,1,mixed,0,1,0
 Yes,No,3.4,25,300.0,Delivery,Brigade Road,1,Quick Bites,0,0,1
 Yes,No,4.2,115,500.0,Delivery,Brigade Road,1,mixed,0,1,0
-Yes,No,3.333333333333333,0,400.0,Delivery,Brigade Road,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Delivery,Brigade Road,1,Food Court,0,0,1
 Yes,No,3.7,21,450.0,Delivery,Brigade Road,1,Cafe,0,1,0
 Yes,No,3.2,41,300.0,Delivery,Brigade Road,1,Quick Bites,1,0,0
 Yes,No,3.8,71,500.0,Delivery,Brigade Road,1,Cafe,0,1,0
@@ -5638,7 +5638,7 @@ Yes,No,3.9,84,1500.0,Delivery,Brigade Road,1,mixed,0,0,1
 Yes,No,3.691216896431196,0,300.0,Delivery,Brigade Road,1,Quick Bites,1,0,0
 Yes,No,3.6,24,300.0,Delivery,Brigade Road,1,Quick Bites,0,0,1
 Yes,No,3.5,24,450.0,Delivery,Brigade Road,1,Casual Dining,0,0,1
-Yes,No,2.333333333333333,0,300.0,Delivery,Brigade Road,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Delivery,Brigade Road,0,Quick Bites,0,0,1
 Yes,No,3.691216896431196,0,400.0,Delivery,Brigade Road,1,Quick Bites,1,0,0
 No,No,4.3,1348,550.0,Delivery,Brigade Road,1,Casual Dining,0,0,1
 No,Yes,4.1,473,800.0,Delivery,Brigade Road,1,Casual Dining,0,0,1
@@ -6025,7 +6025,7 @@ Yes,No,3.5,121,300.0,Dine-out,Brigade Road,1,Quick Bites,0,0,1
 No,No,3.0,10,200.0,Dine-out,Brigade Road,1,Food Court,0,0,1
 No,No,3.691216896431196,0,200.0,Dine-out,Brigade Road,1,Quick Bites,0,0,1
 No,No,3.1,5,200.0,Dine-out,Brigade Road,1,Quick Bites,0,1,0
-Yes,No,3.333333333333333,0,400.0,Dine-out,Brigade Road,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Dine-out,Brigade Road,1,Food Court,0,0,1
 Yes,No,3.5,89,600.0,Dine-out,Brigade Road,1,Food Court,0,1,0
 Yes,No,3.1,28,250.0,Dine-out,Brigade Road,1,Food Court,0,1,0
 No,No,3.691216896431196,0,250.0,Dine-out,Brigade Road,1,Quick Bites,0,0,1
@@ -6465,7 +6465,7 @@ No,No,3.691216896431196,0,200.0,Dine-out,Brigade Road,1,Quick Bites,0,0,1
 Yes,No,2.5,34,600.0,Dine-out,Brigade Road,0,Quick Bites,0,1,0
 Yes,No,3.5,0,200.0,Dine-out,Brigade Road,1,Quick Bites,1,0,0
 Yes,No,5.0,0,300.0,Dine-out,Brigade Road,0,Quick Bites,0,0,1
-Yes,No,2.333333333333333,0,300.0,Dine-out,Brigade Road,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Dine-out,Brigade Road,0,Quick Bites,0,0,1
 No,No,3.5,17,100.0,Dine-out,Brigade Road,1,Quick Bites,1,0,0
 No,No,3.6,25,250.0,Dine-out,Brigade Road,1,Quick Bites,0,1,0
 No,No,3.6,13,400.0,Dine-out,Brigade Road,1,Quick Bites,0,0,1
@@ -6885,7 +6885,7 @@ Yes,No,3.9,84,300.0,Delivery,Brookefield,1,Quick Bites,1,0,0
 Yes,No,3.3,86,300.0,Delivery,Brookefield,1,Quick Bites,0,0,1
 Yes,No,2.5,0,250.0,Delivery,Brookefield,1,Quick Bites,1,0,0
 Yes,No,1.0,0,400.0,Delivery,Brookefield,1,Delivery,1,0,0
-Yes,No,2.333333333333333,0,400.0,Delivery,Brookefield,1,Quick Bites,1,0,0
+Yes,No,2.3333333333333335,0,400.0,Delivery,Brookefield,1,Quick Bites,1,0,0
 Yes,No,3.7,52,350.0,Delivery,Brookefield,1,Delivery,1,0,0
 Yes,No,3.7,175,500.0,Delivery,Brookefield,1,Delivery,0,0,1
 Yes,No,4.6,110,400.0,Delivery,Brookefield,1,mixed,0,1,0
@@ -7028,7 +7028,7 @@ No,No,2.8,55,600.0,Delivery,Brookefield,1,Casual Dining,0,0,1
 Yes,Yes,4.0,956,750.0,Delivery,Brookefield,1,Casual Dining,0,1,0
 Yes,No,3.9,756,1000.0,Delivery,Brookefield,1,Casual Dining,1,0,0
 Yes,No,3.5,25,400.0,Delivery,Brookefield,1,Bakery,0,1,0
-Yes,No,3.333333333333333,0,300.0,Delivery,Brookefield,1,Quick Bites,0,1,0
+Yes,No,3.3333333333333335,0,300.0,Delivery,Brookefield,1,Quick Bites,0,1,0
 Yes,Yes,3.9,328,600.0,Delivery,Brookefield,1,Casual Dining,0,0,1
 Yes,Yes,4.6,586,1000.0,Delivery,Brookefield,1,Casual Dining,0,1,0
 Yes,No,3.9,631,300.0,Delivery,Brookefield,1,Quick Bites,0,0,1
@@ -7313,7 +7313,7 @@ No,No,3.5,44,400.0,Delivery,Brookefield,1,Quick Bites,0,0,1
 No,No,3.0,10,500.0,Delivery,Brookefield,1,Quick Bites,0,1,0
 Yes,No,3.691216896431196,0,250.0,Delivery,Brookefield,1,Dhaba,0,0,1
 No,No,3.691216896431196,0,250.0,Delivery,Brookefield,1,Quick Bites,0,0,1
-Yes,No,3.333333333333333,0,400.0,Delivery,Brookefield,1,mixed,1,0,0
+Yes,No,3.3333333333333335,0,400.0,Delivery,Brookefield,1,mixed,1,0,0
 No,No,3.691216896431196,0,300.0,Delivery,Brookefield,1,Beverage Shop,0,1,0
 Yes,No,3.0,0,100.0,Delivery,Brookefield,1,Food Court,0,1,0
 Yes,No,2.0,0,350.0,Delivery,Brookefield,1,Quick Bites,0,0,1
@@ -7613,7 +7613,7 @@ Yes,No,3.6,198,500.0,Delivery,Brookefield,1,Food Court,0,1,0
 Yes,No,3.5,16,900.0,Delivery,Brookefield,1,Quick Bites,0,1,0
 Yes,Yes,3.7,1813,850.0,Delivery,Brookefield,1,Casual Dining,1,0,0
 Yes,No,2.9,667,800.0,Delivery,Brookefield,1,Casual Dining,0,0,1
-Yes,No,3.333333333333333,0,300.0,Delivery,Brookefield,1,Quick Bites,0,0,1
+Yes,No,3.3333333333333335,0,300.0,Delivery,Brookefield,1,Quick Bites,0,0,1
 Yes,No,3.3,18,500.0,Delivery,Brookefield,1,Delivery,0,0,1
 Yes,No,3.4,9,300.0,Delivery,Brookefield,1,Beverage Shop,0,1,0
 Yes,No,3.1,95,500.0,Delivery,Brookefield,1,Quick Bites,0,0,1
@@ -7651,7 +7651,7 @@ Yes,No,3.691216896431196,0,600.0,Delivery,Brookefield,1,Delivery,0,0,1
 No,No,3.691216896431196,0,200.0,Delivery,Brookefield,1,Delivery,1,0,0
 Yes,No,3.7,41,400.0,Delivery,Brookefield,1,mixed,0,1,0
 Yes,No,2.6,119,500.0,Delivery,Brookefield,1,mixed,0,0,1
-Yes,No,2.333333333333333,0,400.0,Delivery,Brookefield,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,400.0,Delivery,Brookefield,1,Bakery,0,1,0
 Yes,No,4.1,180,300.0,Delivery,Brookefield,1,mixed,0,1,0
 Yes,No,5.0,0,600.0,Delivery,Brookefield,1,Quick Bites,0,0,1
 Yes,No,5.0,0,250.0,Delivery,Brookefield,1,mixed,0,0,1
@@ -7806,7 +7806,7 @@ Yes,No,3.9,51,500.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
 Yes,No,4.0,121,900.0,Dine-out,Brookefield,1,Quick Bites,0,1,0
 Yes,No,3.6,42,300.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
 Yes,No,3.7,193,200.0,Dine-out,Brookefield,1,Quick Bites,0,1,0
-Yes,No,3.333333333333333,0,300.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
+Yes,No,3.3333333333333335,0,300.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
 No,No,3.5,13,250.0,Dine-out,Brookefield,1,Quick Bites,1,0,0
 Yes,No,3.1,158,450.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
 No,Yes,3.1,19,400.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
@@ -8123,7 +8123,7 @@ Yes,No,3.3,7,500.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
 Yes,No,3.6,19,200.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
 Yes,No,3.7,61,200.0,Dine-out,Brookefield,1,Quick Bites,0,1,0
 Yes,No,5.0,0,600.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
-Yes,No,3.333333333333333,0,300.0,Dine-out,Brookefield,1,Quick Bites,0,1,0
+Yes,No,3.3333333333333335,0,300.0,Dine-out,Brookefield,1,Quick Bites,0,1,0
 Yes,No,3.2,4,300.0,Dine-out,Brookefield,1,Quick Bites,1,0,0
 Yes,No,5.0,0,250.0,Dine-out,Brookefield,1,Quick Bites,0,1,0
 No,No,3.691216896431196,0,500.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
@@ -8230,7 +8230,7 @@ Yes,No,3.0,382,1000.0,Dine-out,Brookefield,1,Casual Dining,0,1,0
 Yes,No,2.4,125,500.0,Dine-out,Brookefield,1,Casual Dining,0,0,1
 No,No,3.691216896431196,0,300.0,Dine-out,Brookefield,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,250.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
-Yes,No,3.333333333333333,0,400.0,Dine-out,Brookefield,1,mixed,1,0,0
+Yes,No,3.3333333333333335,0,400.0,Dine-out,Brookefield,1,mixed,1,0,0
 No,No,3.691216896431196,0,300.0,Dine-out,Brookefield,1,Quick Bites,0,0,1
 No,Yes,4.4,1710,1200.0,Drinks & nightlife,Brookefield,1,mixed,0,0,1
 Yes,Yes,3.5,262,1500.0,Drinks & nightlife,Brookefield,1,mixed,0,0,1
@@ -8697,7 +8697,7 @@ Yes,No,3.9,409,500.0,Delivery,BTM,1,Casual Dining,0,0,1
 Yes,No,3.8,190,250.0,Delivery,BTM,1,Quick Bites,0,0,1
 Yes,No,3.7,17,200.0,Delivery,BTM,1,Beverage Shop,0,1,0
 Yes,Yes,3.691216896431196,0,900.0,Delivery,BTM,1,Casual Dining,0,0,1
-Yes,No,2.333333333333333,0,350.0,Delivery,BTM,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Delivery,BTM,1,Bakery,0,1,0
 Yes,No,3.1,18,450.0,Delivery,BTM,1,Casual Dining,0,0,1
 Yes,No,3.691216896431196,0,350.0,Delivery,BTM,1,mixed,0,1,0
 Yes,No,4.1,1272,900.0,Delivery,BTM,0,Casual Dining,0,0,1
@@ -9442,7 +9442,7 @@ Yes,No,1.0,0,300.0,Delivery,BTM,1,Quick Bites,0,0,1
 Yes,No,3.9,201,300.0,Delivery,BTM,1,Quick Bites,0,0,1
 Yes,No,3.7,127,300.0,Delivery,BTM,1,mixed,0,1,0
 Yes,Yes,4.1,600,1100.0,Delivery,BTM,1,Casual Dining,0,0,1
-Yes,No,2.333333333333333,0,500.0,Delivery,BTM,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,BTM,1,Delivery,0,0,1
 Yes,No,3.6,49,500.0,Delivery,BTM,1,Casual Dining,0,0,1
 Yes,No,3.9,213,400.0,Delivery,BTM,1,Quick Bites,0,1,0
 No,Yes,5.0,0,200.0,Delivery,BTM,1,Quick Bites,0,1,0
@@ -9721,7 +9721,7 @@ Yes,No,3.691216896431196,0,600.0,Delivery,BTM,1,Delivery,0,0,1
 Yes,No,3.2,10,250.0,Delivery,BTM,1,Quick Bites,0,1,0
 Yes,No,4.1,209,400.0,Delivery,BTM,1,Quick Bites,0,1,0
 Yes,No,3.691216896431196,0,300.0,Delivery,BTM,1,Quick Bites,1,0,0
-Yes,No,3.7142857142857135,0,350.0,Delivery,BTM,1,Quick Bites,0,1,0
+Yes,No,3.7142857142857144,0,350.0,Delivery,BTM,1,Quick Bites,0,1,0
 Yes,No,3.8,278,200.0,Delivery,BTM,1,Quick Bites,1,0,0
 Yes,No,3.691216896431196,0,450.0,Delivery,BTM,1,mixed,0,0,1
 Yes,No,4.0,101,500.0,Delivery,BTM,1,Casual Dining,1,0,0
@@ -9752,7 +9752,7 @@ Yes,No,3.6,112,400.0,Delivery,BTM,1,Delivery,0,0,1
 Yes,No,2.8,335,500.0,Delivery,BTM,1,Casual Dining,0,0,1
 Yes,No,3.8,75,300.0,Delivery,BTM,1,Quick Bites,0,0,1
 Yes,No,5.0,0,300.0,Delivery,BTM,1,Quick Bites,0,1,0
-Yes,No,2.333333333333333,0,500.0,Delivery,BTM,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,BTM,1,Delivery,0,0,1
 Yes,No,4.1,90,100.0,Delivery,BTM,1,Quick Bites,1,0,0
 Yes,No,3.6,11,200.0,Delivery,BTM,1,Beverage Shop,0,1,0
 No,No,3.5,27,200.0,Delivery,BTM,1,Quick Bites,1,0,0
@@ -10007,7 +10007,7 @@ No,No,3.6,14,300.0,Delivery,BTM,1,Bakery,0,1,0
 No,No,3.3,4,300.0,Delivery,BTM,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,300.0,Delivery,BTM,1,mixed,0,1,0
 No,No,3.691216896431196,0,100.0,Delivery,BTM,1,Quick Bites,0,0,1
-No,No,2.833333333333333,0,300.0,Delivery,BTM,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Delivery,BTM,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,250.0,Delivery,BTM,1,Sweet Shop,0,1,0
 No,No,3.3,4,400.0,Delivery,BTM,1,Bakery,0,1,0
 No,No,5.0,0,500.0,Delivery,BTM,1,Casual Dining,0,0,1
@@ -11316,7 +11316,7 @@ No,No,3.3,5,150.0,Dine-out,BTM,1,Mess,1,0,0
 No,No,3.4,39,700.0,Dine-out,BTM,1,Casual Dining,0,0,1
 No,No,3.1,10,200.0,Dine-out,BTM,1,Beverage Shop,0,1,0
 No,No,3.691216896431196,0,100.0,Dine-out,BTM,1,Quick Bites,0,0,1
-No,No,2.833333333333333,0,300.0,Dine-out,BTM,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Dine-out,BTM,1,Quick Bites,0,0,1
 No,No,5.0,0,600.0,Dine-out,BTM,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,250.0,Dine-out,BTM,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,300.0,Dine-out,BTM,1,Quick Bites,0,1,0
@@ -11428,7 +11428,7 @@ No,No,3.5,8,1600.0,Drinks & nightlife,BTM,1,Lounge,0,1,0
 Yes,No,4.6,4650,1500.0,Drinks & nightlife,BTM,1,Lounge,0,0,1
 No,Yes,4.4,1533,2000.0,Drinks & nightlife,BTM,1,mixed,0,1,0
 No,Yes,4.5,2225,1100.0,Drinks & nightlife,BTM,1,mixed,0,1,0
-No,Yes,3.899053627760253,0,1500.0,Drinks & nightlife,BTM,1,mixed,0,0,1
+No,Yes,3.8990536277602525,0,1500.0,Drinks & nightlife,BTM,1,mixed,0,0,1
 Yes,Yes,4.4,2493,900.0,Drinks & nightlife,BTM,1,Pub,0,0,1
 Yes,Yes,4.4,3870,1600.0,Drinks & nightlife,BTM,1,mixed,0,0,1
 No,Yes,4.5,6348,1600.0,Drinks & nightlife,BTM,1,mixed,0,1,0
@@ -12065,7 +12065,7 @@ Yes,No,3.691216896431196,0,150.0,Delivery,Church Street,0,Quick Bites,0,0,1
 Yes,No,3.9,185,350.0,Delivery,Church Street,1,Quick Bites,0,1,0
 Yes,No,2.5,0,100.0,Delivery,Church Street,1,Quick Bites,1,0,0
 Yes,No,3.25,0,600.0,Delivery,Church Street,1,mixed,0,1,0
-Yes,No,2.333333333333333,0,300.0,Delivery,Church Street,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Delivery,Church Street,0,Quick Bites,0,0,1
 Yes,Yes,4.3,1048,1600.0,Delivery,Church Street,1,Casual Dining,0,1,0
 Yes,Yes,4.1,55,800.0,Delivery,Church Street,1,Cafe,0,1,0
 Yes,No,3.691216896431196,0,400.0,Delivery,Church Street,1,Quick Bites,1,0,0
@@ -12255,7 +12255,7 @@ Yes,No,3.6,16,300.0,Delivery,Church Street,1,Delivery,1,0,0
 Yes,No,5.0,0,300.0,Delivery,Church Street,1,Quick Bites,0,0,1
 Yes,No,4.0,0,600.0,Delivery,Church Street,1,Casual Dining,0,1,0
 No,No,3.691216896431196,0,600.0,Delivery,Church Street,1,Delivery,0,1,0
-Yes,No,3.333333333333333,0,400.0,Delivery,Church Street,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Delivery,Church Street,1,Food Court,0,0,1
 Yes,No,3.3,8,150.0,Delivery,Church Street,1,Quick Bites,1,0,0
 Yes,No,3.3,6,300.0,Delivery,Church Street,1,Quick Bites,1,0,0
 Yes,No,3.6,32,700.0,Delivery,Church Street,1,Quick Bites,1,0,0
@@ -12874,7 +12874,7 @@ Yes,No,3.9,454,400.0,Dine-out,Church Street,1,Quick Bites,0,0,1
 No,No,3.0,33,400.0,Dine-out,Church Street,1,Quick Bites,0,0,1
 Yes,No,3.5,6,400.0,Dine-out,Church Street,1,Quick Bites,0,1,0
 Yes,No,3.9,65,250.0,Dine-out,Church Street,1,mixed,0,1,0
-Yes,No,3.333333333333333,0,400.0,Dine-out,Church Street,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Dine-out,Church Street,1,Food Court,0,0,1
 No,No,3.2,57,350.0,Dine-out,Church Street,1,Quick Bites,0,1,0
 No,No,4.0,336,300.0,Dine-out,Church Street,1,Quick Bites,0,1,0
 Yes,No,3.8,30,200.0,Dine-out,Church Street,1,Quick Bites,0,0,1
@@ -12994,7 +12994,7 @@ No,No,3.0,0,200.0,Dine-out,Church Street,1,Quick Bites,0,1,0
 No,No,3.5,0,300.0,Dine-out,Church Street,1,Quick Bites,1,0,0
 No,No,2.0,0,200.0,Dine-out,Church Street,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,250.0,Dine-out,Church Street,1,Quick Bites,1,0,0
-Yes,No,2.333333333333333,0,300.0,Dine-out,Church Street,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Dine-out,Church Street,0,Quick Bites,0,0,1
 No,No,3.691216896431196,0,600.0,Dine-out,Church Street,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,350.0,Dine-out,Church Street,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,300.0,Dine-out,Church Street,1,Quick Bites,1,0,0
@@ -13384,7 +13384,7 @@ Yes,No,1.631578947368421,0,250.0,Delivery,Electronic City,1,mixed,1,0,0
 Yes,No,3.0,0,400.0,Delivery,Electronic City,1,mixed,0,0,1
 Yes,No,3.9,23,500.0,Delivery,Electronic City,1,mixed,0,0,1
 Yes,No,4.0,0,400.0,Delivery,Electronic City,1,Quick Bites,0,0,1
-Yes,No,1.947368421052632,0,300.0,Delivery,Electronic City,1,mixed,0,0,1
+Yes,No,1.9473684210526316,0,300.0,Delivery,Electronic City,1,mixed,0,0,1
 Yes,No,3.7,152,200.0,Delivery,Electronic City,1,mixed,0,1,0
 Yes,No,1.0,0,600.0,Delivery,Electronic City,1,mixed,0,0,1
 Yes,No,3.9,505,250.0,Delivery,Electronic City,1,Quick Bites,0,0,1
@@ -14008,7 +14008,7 @@ No,Yes,3.7,177,1200.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
 No,Yes,4.4,809,1200.0,Dine-out,Electronic City,1,mixed,0,0,1
 No,Yes,4.3,1265,1200.0,Dine-out,Electronic City,1,mixed,0,0,1
 No,Yes,4.3,1147,1600.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
-No,Yes,2.333333333333333,0,1600.0,Dine-out,Electronic City,1,Microbrewery,0,1,0
+No,Yes,2.3333333333333335,0,1600.0,Dine-out,Electronic City,1,Microbrewery,0,1,0
 Yes,Yes,4.5,863,600.0,Dine-out,Electronic City,1,mixed,0,1,0
 Yes,No,4.2,882,1100.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
 Yes,Yes,4.0,537,1500.0,Dine-out,Electronic City,1,mixed,0,0,1
@@ -14097,7 +14097,7 @@ No,No,3.5,9,400.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
 No,No,3.7,45,500.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
 No,No,3.4,7,1000.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
 No,No,3.5,43,800.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
-No,No,3.333333333333333,0,500.0,Dine-out,Electronic City,1,Casual Dining,1,0,0
+No,No,3.3333333333333335,0,500.0,Dine-out,Electronic City,1,Casual Dining,1,0,0
 Yes,No,3.6,399,700.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
 No,No,3.6,196,600.0,Dine-out,Electronic City,1,Casual Dining,1,0,0
 No,No,3.1,19,1600.0,Dine-out,Electronic City,1,Casual Dining,0,0,1
@@ -14512,7 +14512,7 @@ No,No,3.8,33,555.5920026514856,Dine-out,Electronic City,0,Casual Dining,1,0,0
 No,Yes,4.3,1265,1200.0,Drinks & nightlife,Electronic City,1,mixed,0,0,1
 No,Yes,4.4,809,1200.0,Drinks & nightlife,Electronic City,1,mixed,0,0,1
 No,Yes,3.6,116,1200.0,Drinks & nightlife,Electronic City,1,Bar,0,0,1
-No,Yes,2.333333333333333,0,1600.0,Drinks & nightlife,Electronic City,1,Microbrewery,0,1,0
+No,Yes,2.3333333333333335,0,1600.0,Drinks & nightlife,Electronic City,1,Microbrewery,0,1,0
 Yes,Yes,4.0,537,1500.0,Drinks & nightlife,Electronic City,1,mixed,0,0,1
 No,Yes,4.3,169,1400.0,Drinks & nightlife,Electronic City,1,Bar,0,0,1
 No,Yes,3.6,180,1300.0,Drinks & nightlife,Electronic City,1,mixed,0,0,1
@@ -14910,7 +14910,7 @@ Yes,No,4.1,461,700.0,Delivery,Frazer Town,1,Cafe,0,1,0
 Yes,No,4.2,740,750.0,Delivery,Frazer Town,1,Cafe,0,1,0
 Yes,No,2.9,17,600.0,Delivery,Frazer Town,1,Quick Bites,1,0,0
 Yes,Yes,4.4,1842,1500.0,Delivery,Frazer Town,1,Casual Dining,0,1,0
-Yes,No,3.333333333333333,0,200.0,Delivery,Frazer Town,1,Delivery,0,1,0
+Yes,No,3.3333333333333335,0,200.0,Delivery,Frazer Town,1,Delivery,0,1,0
 Yes,No,4.2,231,300.0,Delivery,Frazer Town,1,mixed,0,1,0
 Yes,No,3.8,106,200.0,Delivery,Frazer Town,1,Quick Bites,0,0,1
 Yes,No,3.7,23,100.0,Delivery,Frazer Town,1,Quick Bites,0,0,1
@@ -15010,7 +15010,7 @@ No,No,4.0,580,1500.0,Delivery,Frazer Town,1,mixed,0,0,1
 Yes,No,3.2,23,200.0,Delivery,Frazer Town,1,Quick Bites,1,0,0
 Yes,No,3.8,260,700.0,Delivery,Frazer Town,1,Cafe,0,1,0
 Yes,No,3.9,55,400.0,Delivery,Frazer Town,1,Quick Bites,0,0,1
-Yes,No,3.333333333333333,0,400.0,Delivery,Frazer Town,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Delivery,Frazer Town,1,Food Court,0,0,1
 Yes,No,3.5,20,500.0,Delivery,Frazer Town,1,Cafe,0,1,0
 Yes,No,3.691216896431196,0,600.0,Delivery,Frazer Town,1,Quick Bites,0,1,0
 No,No,4.1,147,700.0,Delivery,Frazer Town,1,mixed,0,1,0
@@ -15257,7 +15257,7 @@ No,No,3.691216896431196,0,300.0,Delivery,Frazer Town,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,555.5920026514856,Delivery,Frazer Town,0,mixed,1,0,0
 Yes,No,3.6,21,700.0,Delivery,Frazer Town,1,Casual Dining,0,0,1
 Yes,No,3.5,4,200.0,Delivery,Frazer Town,1,Bakery,0,1,0
-Yes,No,2.333333333333333,0,300.0,Delivery,Frazer Town,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Delivery,Frazer Town,0,Quick Bites,0,0,1
 Yes,No,4.0,128,600.0,Delivery,Frazer Town,1,Quick Bites,0,1,0
 Yes,No,3.5,16,400.0,Delivery,Frazer Town,1,Dessert Parlor,0,1,0
 Yes,Yes,3.8,198,1600.0,Delivery,Frazer Town,1,Casual Dining,0,1,0
@@ -15737,7 +15737,7 @@ No,No,3.691216896431196,0,1500.0,Pubs and bars,Frazer Town,1,mixed,0,0,1
 No,No,3.6,14,1500.0,Pubs and bars,Frazer Town,1,Bar,0,0,1
 No,No,3.691216896431196,0,2000.0,Pubs and bars,Frazer Town,0,Bar,0,1,0
 Yes,Yes,4.4,4108,1400.0,Buffet,HSR,1,mixed,0,0,1
-No,Yes,2.333333333333333,0,1200.0,Buffet,HSR,1,Casual Dining,0,0,1
+No,Yes,2.3333333333333335,0,1200.0,Buffet,HSR,1,Casual Dining,0,0,1
 Yes,Yes,4.2,1873,1500.0,Buffet,HSR,1,mixed,0,0,1
 Yes,Yes,4.2,1148,1800.0,Buffet,HSR,1,Casual Dining,0,0,1
 Yes,Yes,4.4,3764,600.0,Buffet,HSR,1,mixed,0,1,0
@@ -15976,7 +15976,7 @@ No,No,3.691216896431196,0,150.0,Delivery,HSR,1,Beverage Shop,0,1,0
 No,No,3.6,8,350.0,Delivery,HSR,1,Beverage Shop,0,1,0
 No,No,3.7,446,400.0,Delivery,HSR,1,Quick Bites,0,0,1
 Yes,No,3.6,8,400.0,Delivery,HSR,1,Dessert Parlor,0,1,0
-No,Yes,2.333333333333333,0,1200.0,Delivery,HSR,1,Casual Dining,0,0,1
+No,Yes,2.3333333333333335,0,1200.0,Delivery,HSR,1,Casual Dining,0,0,1
 Yes,No,3.6,16,900.0,Delivery,HSR,1,Casual Dining,0,0,1
 No,No,3.7,532,250.0,Delivery,HSR,1,Casual Dining,0,0,1
 Yes,No,3.9,330,600.0,Delivery,HSR,1,Casual Dining,0,1,0
@@ -16113,7 +16113,7 @@ No,No,3.5,11,150.0,Delivery,HSR,1,Quick Bites,0,0,1
 No,No,3.2,10,700.0,Delivery,HSR,1,Delivery,1,0,0
 No,No,3.691216896431196,0,200.0,Delivery,HSR,1,Delivery,1,0,0
 No,No,3.691216896431196,0,600.0,Delivery,HSR,1,Delivery,1,0,0
-No,No,2.833333333333333,0,300.0,Delivery,HSR,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Delivery,HSR,1,Quick Bites,0,0,1
 No,No,3.6666666666666665,0,300.0,Delivery,HSR,1,mixed,0,1,0
 No,No,3.691216896431196,0,200.0,Delivery,HSR,1,mixed,0,1,0
 No,No,4.75,0,550.0,Delivery,HSR,1,Casual Dining,0,0,1
@@ -16921,7 +16921,7 @@ No,No,3.691216896431196,0,300.0,Desserts,HSR,1,Bakery,0,1,0
 Yes,Yes,4.368421052631579,0,800.0,Dine-out,HSR,1,Cafe,0,1,0
 Yes,Yes,4.0,82,500.0,Dine-out,HSR,1,mixed,0,1,0
 No,No,4.3,116,800.0,Dine-out,HSR,1,mixed,0,0,1
-No,No,3.905405405405405,0,1200.0,Dine-out,HSR,1,mixed,0,0,1
+No,No,3.9054054054054053,0,1200.0,Dine-out,HSR,1,mixed,0,0,1
 No,Yes,4.7,6745,1000.0,Dine-out,HSR,1,mixed,0,0,1
 Yes,No,4.4,792,700.0,Dine-out,HSR,1,Cafe,0,1,0
 Yes,Yes,4.2,1884,1500.0,Dine-out,HSR,1,mixed,0,0,1
@@ -17247,7 +17247,7 @@ Yes,No,3.2,42,200.0,Dine-out,HSR,1,Quick Bites,1,0,0
 Yes,No,5.0,0,200.0,Dine-out,HSR,1,Quick Bites,0,0,1
 No,No,3.7,41,500.0,Dine-out,HSR,1,Quick Bites,1,0,0
 No,No,3.7,34,200.0,Dine-out,HSR,1,Quick Bites,1,0,0
-No,No,2.833333333333333,0,300.0,Dine-out,HSR,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Dine-out,HSR,1,Quick Bites,0,0,1
 Yes,No,3.691216896431196,0,500.0,Dine-out,HSR,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,250.0,Dine-out,HSR,1,Quick Bites,0,1,0
 No,No,3.3,5,100.0,Dine-out,HSR,1,Quick Bites,0,1,0
@@ -17454,7 +17454,7 @@ No,Yes,4.5,1508,1900.0,Drinks & nightlife,HSR,1,Pub,0,0,1
 No,Yes,4.4,366,1000.0,Drinks & nightlife,HSR,1,mixed,0,0,1
 Yes,Yes,4.1,326,1200.0,Drinks & nightlife,HSR,1,mixed,0,0,1
 No,No,3.7,51,1500.0,Drinks & nightlife,HSR,1,Bar,0,1,0
-No,No,3.768518518518519,0,1200.0,Pubs and bars,HSR,1,mixed,0,0,1
+No,No,3.7685185185185186,0,1200.0,Pubs and bars,HSR,1,mixed,0,0,1
 No,Yes,4.7,3573,1000.0,Pubs and bars,HSR,1,Bar,0,0,1
 No,Yes,4.6,634,850.0,Pubs and bars,HSR,1,mixed,0,1,0
 No,Yes,4.7,6745,1000.0,Pubs and bars,HSR,1,mixed,0,0,1
@@ -18048,14 +18048,14 @@ Yes,No,3.1,48,500.0,Delivery,Indiranagar,1,Delivery,0,0,1
 No,No,4.0,120,350.0,Delivery,Indiranagar,1,Beverage Shop,0,1,0
 No,No,2.9,539,500.0,Delivery,Indiranagar,1,mixed,0,1,0
 No,No,3.0,0,400.0,Delivery,Indiranagar,1,Quick Bites,0,1,0
-Yes,No,3.333333333333333,0,200.0,Delivery,Indiranagar,1,Delivery,0,1,0
+Yes,No,3.3333333333333335,0,200.0,Delivery,Indiranagar,1,Delivery,0,1,0
 Yes,No,3.7,66,800.0,Delivery,Indiranagar,1,Cafe,0,1,0
 Yes,Yes,4.1,765,1200.0,Delivery,Indiranagar,1,mixed,0,1,0
 Yes,No,5.0,0,500.0,Delivery,Indiranagar,1,Quick Bites,0,0,1
 Yes,No,4.2,93,300.0,Delivery,Indiranagar,1,Quick Bites,0,0,1
 Yes,No,4.2,115,500.0,Delivery,Indiranagar,1,mixed,0,1,0
 Yes,No,4.0,0,600.0,Delivery,Indiranagar,1,Casual Dining,0,1,0
-Yes,No,3.333333333333333,0,400.0,Delivery,Indiranagar,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Delivery,Indiranagar,1,Food Court,0,0,1
 Yes,No,4.0,133,450.0,Delivery,Indiranagar,1,Quick Bites,0,1,0
 Yes,No,5.0,0,300.0,Delivery,Indiranagar,1,mixed,0,1,0
 No,No,3.7,130,600.0,Delivery,Indiranagar,1,Quick Bites,0,0,1
@@ -18310,7 +18310,7 @@ Yes,No,3.7,22,300.0,Delivery,Indiranagar,1,Beverage Shop,0,1,0
 Yes,No,3.6,16,250.0,Delivery,Indiranagar,1,Quick Bites,0,1,0
 Yes,No,4.1,2415,1400.0,Delivery,Indiranagar,1,Lounge,0,1,0
 Yes,No,3.2,31,200.0,Delivery,Indiranagar,1,Quick Bites,1,0,0
-Yes,No,2.333333333333333,0,300.0,Delivery,Indiranagar,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Delivery,Indiranagar,0,Quick Bites,0,0,1
 Yes,No,3.9,247,650.0,Delivery,Indiranagar,1,Casual Dining,0,1,0
 Yes,No,3.7,216,450.0,Delivery,Indiranagar,1,Food Truck,0,1,0
 Yes,No,3.0,20,400.0,Delivery,Indiranagar,1,Casual Dining,0,0,1
@@ -18595,7 +18595,7 @@ No,No,3.691216896431196,0,500.0,Desserts,Indiranagar,1,mixed,0,1,0
 No,No,3.691216896431196,0,100.0,Desserts,Indiranagar,1,Bakery,0,1,0
 No,Yes,4.4,953,2500.0,Dine-out,Indiranagar,1,mixed,0,1,0
 Yes,Yes,3.691216896431196,0,1000.0,Dine-out,Indiranagar,1,Casual Dining,0,0,1
-No,Yes,3.842105263157895,0,1700.0,Dine-out,Indiranagar,1,mixed,0,1,0
+No,Yes,3.8421052631578947,0,1700.0,Dine-out,Indiranagar,1,mixed,0,1,0
 No,Yes,4.7,7160,1600.0,Dine-out,Indiranagar,1,Casual Dining,0,0,1
 No,No,4.7,14956,1500.0,Dine-out,Indiranagar,1,Microbrewery,0,1,0
 No,No,4.3,424,1000.0,Dine-out,Indiranagar,1,mixed,0,0,1
@@ -18608,7 +18608,7 @@ Yes,No,4.6,3760,1200.0,Dine-out,Indiranagar,1,mixed,0,1,0
 Yes,Yes,4.5,3219,1200.0,Dine-out,Indiranagar,1,Casual Dining,1,0,0
 No,Yes,4.3,4187,1500.0,Dine-out,Indiranagar,1,mixed,0,1,0
 No,Yes,4.6,2785,1500.0,Dine-out,Indiranagar,1,mixed,0,0,1
-No,Yes,3.7142857142857135,0,1700.0,Dine-out,Indiranagar,1,mixed,0,1,0
+No,Yes,3.7142857142857144,0,1700.0,Dine-out,Indiranagar,1,mixed,0,1,0
 Yes,Yes,4.6,5421,1600.0,Dine-out,Indiranagar,1,Casual Dining,0,1,0
 Yes,Yes,4.8,1724,1200.0,Dine-out,Indiranagar,1,Casual Dining,0,1,0
 No,Yes,4.1,3864,1300.0,Dine-out,Indiranagar,1,mixed,0,1,0
@@ -19202,7 +19202,7 @@ No,No,3.5,0,300.0,Dine-out,Indiranagar,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,300.0,Dine-out,Indiranagar,1,Food Court,0,1,0
 No,No,3.691216896431196,0,250.0,Dine-out,Indiranagar,1,Quick Bites,0,1,0
 No,No,4.0,0,200.0,Dine-out,Indiranagar,1,Quick Bites,0,0,1
-Yes,No,2.333333333333333,0,300.0,Dine-out,Indiranagar,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Dine-out,Indiranagar,0,Quick Bites,0,0,1
 No,No,3.691216896431196,0,200.0,Dine-out,Indiranagar,1,Quick Bites,0,1,0
 No,No,3.2,4,300.0,Dine-out,Indiranagar,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,250.0,Dine-out,Indiranagar,1,Quick Bites,0,1,0
@@ -19789,7 +19789,7 @@ Yes,Yes,3.7,206,1000.0,Delivery,Jayanagar,1,Pub,0,1,0
 Yes,Yes,4.1,220,600.0,Delivery,Jayanagar,1,Casual Dining,0,0,1
 Yes,No,4.1,91,500.0,Delivery,Jayanagar,1,Bakery,0,1,0
 Yes,No,4.0,229,500.0,Delivery,Jayanagar,1,Dessert Parlor,0,1,0
-Yes,No,2.333333333333333,0,350.0,Delivery,Jayanagar,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Delivery,Jayanagar,1,Bakery,0,1,0
 Yes,No,1.0,0,350.0,Delivery,Jayanagar,1,Quick Bites,1,0,0
 Yes,No,2.5,0,200.0,Delivery,Jayanagar,1,Bakery,0,1,0
 Yes,Yes,4.3,1265,800.0,Delivery,Jayanagar,1,mixed,0,1,0
@@ -20540,7 +20540,7 @@ Yes,No,3.6,17,300.0,Delivery,Jayanagar,1,Quick Bites,0,1,0
 Yes,No,3.4,7,200.0,Delivery,Jayanagar,1,mixed,1,0,0
 Yes,No,3.6,16,300.0,Delivery,Jayanagar,1,Delivery,1,0,0
 Yes,No,3.691216896431196,0,300.0,Delivery,Jayanagar,1,mixed,0,0,1
-Yes,No,3.7142857142857135,0,350.0,Delivery,Jayanagar,1,Quick Bites,0,1,0
+Yes,No,3.7142857142857144,0,350.0,Delivery,Jayanagar,1,Quick Bites,0,1,0
 Yes,Yes,4.0,347,1000.0,Delivery,Jayanagar,1,Casual Dining,0,0,1
 Yes,No,3.0,20,500.0,Delivery,Jayanagar,1,mixed,0,0,1
 Yes,No,3.7,46,600.0,Delivery,Jayanagar,1,Casual Dining,0,0,1
@@ -20794,7 +20794,7 @@ Yes,No,3.2,9,300.0,Delivery,Jayanagar,1,mixed,1,0,0
 Yes,No,3.691216896431196,0,600.0,Delivery,Jayanagar,1,Delivery,1,0,0
 Yes,No,3.691216896431196,0,500.0,Delivery,Jayanagar,1,Delivery,1,0,0
 No,No,1.0,0,600.0,Delivery,Jayanagar,1,Delivery,0,1,0
-Yes,No,2.333333333333333,0,500.0,Delivery,Jayanagar,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,Jayanagar,1,Delivery,0,0,1
 Yes,No,3.691216896431196,0,700.0,Delivery,Jayanagar,1,Casual Dining,1,0,0
 Yes,No,3.5,9,300.0,Delivery,Jayanagar,1,Quick Bites,1,0,0
 Yes,No,3.691216896431196,0,350.0,Delivery,Jayanagar,1,Quick Bites,0,0,1
@@ -20876,7 +20876,7 @@ No,No,3.4,20,400.0,Desserts,Jayanagar,1,Bakery,0,1,0
 No,No,3.691216896431196,0,350.0,Desserts,Jayanagar,1,Bakery,0,1,0
 No,No,3.691216896431196,0,250.0,Desserts,Jayanagar,1,Sweet Shop,0,1,0
 No,No,3.3,4,500.0,Desserts,Jayanagar,1,Takeaway,0,1,0
-Yes,No,2.333333333333333,0,350.0,Desserts,Jayanagar,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Desserts,Jayanagar,1,Bakery,0,1,0
 No,No,3.691216896431196,0,400.0,Desserts,Jayanagar,1,Bakery,0,1,0
 No,No,3.691216896431196,0,250.0,Desserts,Jayanagar,1,Quick Bites,0,1,0
 Yes,No,3.5,35,300.0,Desserts,Jayanagar,1,Dessert Parlor,0,0,1
@@ -21239,7 +21239,7 @@ Yes,Yes,4.3,2230,1200.0,Dine-out,Jayanagar,1,mixed,0,0,1
 No,Yes,3.5454545454545454,1240,800.0,Dine-out,Jayanagar,1,Casual Dining,0,0,1
 No,Yes,4.15,1221,1200.0,Dine-out,Jayanagar,1,Casual Dining,1,0,0
 No,Yes,4.3,1230,1500.0,Dine-out,Jayanagar,1,mixed,0,1,0
-No,Yes,3.071428571428572,1168,1100.0,Dine-out,Jayanagar,1,mixed,0,0,1
+No,Yes,3.0714285714285716,1168,1100.0,Dine-out,Jayanagar,1,mixed,0,0,1
 No,Yes,4.5,800,1500.0,Dine-out,Jayanagar,1,Casual Dining,0,1,0
 No,Yes,3.9,1791,1300.0,Dine-out,Jayanagar,1,Bar,0,0,1
 Yes,No,4.3,2447,800.0,Dine-out,Jayanagar,1,Casual Dining,1,0,0
@@ -21617,7 +21617,7 @@ No,No,3.3,4,500.0,Dine-out,Jayanagar,1,Quick Bites,0,1,0
 No,No,3.6,34,650.0,Dine-out,Jayanagar,1,Quick Bites,0,1,0
 No,No,3.5,14,100.0,Dine-out,Jayanagar,1,Quick Bites,0,1,0
 No,No,3.5,14,300.0,Dine-out,Jayanagar,1,Quick Bites,0,1,0
-No,No,3.055555555555556,16,555.5920026514856,Dine-out,Jayanagar,0,Quick Bites,0,1,0
+No,No,3.0555555555555554,16,555.5920026514856,Dine-out,Jayanagar,0,Quick Bites,0,1,0
 No,No,3.4,6,300.0,Dine-out,Jayanagar,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,200.0,Dine-out,Jayanagar,1,Quick Bites,0,0,1
 No,No,3.3,22,300.0,Dine-out,Jayanagar,1,Quick Bites,0,0,1
@@ -22739,7 +22739,7 @@ Yes,No,3.7,288,500.0,Delivery,JP Nagar,1,Quick Bites,0,0,1
 Yes,No,3.7,46,600.0,Delivery,JP Nagar,1,Casual Dining,0,0,1
 Yes,No,3.4,7,200.0,Delivery,JP Nagar,1,mixed,1,0,0
 Yes,No,3.691216896431196,0,200.0,Delivery,JP Nagar,1,Quick Bites,1,0,0
-Yes,No,3.7142857142857135,0,350.0,Delivery,JP Nagar,1,Quick Bites,0,1,0
+Yes,No,3.7142857142857144,0,350.0,Delivery,JP Nagar,1,Quick Bites,0,1,0
 Yes,No,3.691216896431196,0,200.0,Delivery,JP Nagar,1,Quick Bites,1,0,0
 Yes,No,3.5,17,300.0,Delivery,JP Nagar,1,mixed,1,0,0
 Yes,Yes,4.1,1080,1000.0,Delivery,JP Nagar,1,Casual Dining,0,0,1
@@ -22924,7 +22924,7 @@ Yes,No,3.691216896431196,0,600.0,Delivery,JP Nagar,1,Delivery,0,0,1
 Yes,No,3.691216896431196,0,600.0,Delivery,JP Nagar,1,Delivery,0,0,1
 Yes,No,3.2,9,300.0,Delivery,JP Nagar,1,mixed,1,0,0
 Yes,No,3.691216896431196,0,250.0,Delivery,JP Nagar,1,mixed,0,1,0
-Yes,No,2.333333333333333,0,500.0,Delivery,JP Nagar,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,JP Nagar,1,Delivery,0,0,1
 Yes,No,3.5,9,300.0,Delivery,JP Nagar,1,Quick Bites,1,0,0
 Yes,No,3.3,4,300.0,Delivery,JP Nagar,1,Quick Bites,1,0,0
 Yes,No,3.691216896431196,0,700.0,Delivery,JP Nagar,1,Casual Dining,1,0,0
@@ -23091,7 +23091,7 @@ Yes,No,4.0,130,230.0,Desserts,JP Nagar,1,Dessert Parlor,0,0,1
 Yes,No,4.1,205,300.0,Desserts,JP Nagar,1,Dessert Parlor,0,1,0
 Yes,Yes,4.1,590,1200.0,Dine-out,JP Nagar,1,mixed,0,0,1
 No,No,4.3,680,1500.0,Dine-out,JP Nagar,1,Microbrewery,0,1,0
-No,Yes,3.804444444444445,0,1400.0,Dine-out,JP Nagar,1,mixed,0,0,1
+No,Yes,3.8044444444444445,0,1400.0,Dine-out,JP Nagar,1,mixed,0,0,1
 No,Yes,4.591836734693878,0,1500.0,Dine-out,JP Nagar,1,mixed,0,0,1
 No,No,4.5,2800,1200.0,Dine-out,JP Nagar,1,mixed,0,0,1
 No,Yes,4.7,3855,1600.0,Dine-out,JP Nagar,1,Casual Dining,0,0,1
@@ -25367,7 +25367,7 @@ Yes,No,3.691216896431196,0,500.0,Delivery,Kammanahalli,1,Casual Dining,0,0,1
 Yes,No,3.6,30,400.0,Delivery,Kammanahalli,1,Quick Bites,0,0,1
 Yes,Yes,3.9,36,800.0,Delivery,Kammanahalli,1,Casual Dining,0,1,0
 Yes,Yes,4.1,840,800.0,Delivery,Kammanahalli,1,Cafe,0,1,0
-Yes,No,2.833333333333333,0,100.0,Delivery,Kammanahalli,1,Sweet Shop,0,1,0
+Yes,No,2.8333333333333335,0,100.0,Delivery,Kammanahalli,1,Sweet Shop,0,1,0
 Yes,No,2.0,0,400.0,Delivery,Kammanahalli,1,Delivery,1,0,0
 Yes,No,3.6,16,150.0,Delivery,Kammanahalli,1,Quick Bites,0,1,0
 Yes,No,4.733333333333333,0,400.0,Delivery,Kammanahalli,1,Quick Bites,0,0,1
@@ -27961,7 +27961,7 @@ No,No,3.691216896431196,0,600.0,Delivery,Koramangala 4th Block,1,Bakery,0,1,0
 Yes,No,3.691216896431196,0,500.0,Delivery,Koramangala 4th Block,1,Quick Bites,0,1,0
 No,No,3.691216896431196,0,150.0,Delivery,Koramangala 4th Block,1,Dessert Parlor,0,1,0
 No,No,3.691216896431196,0,150.0,Delivery,Koramangala 4th Block,1,Dessert Parlor,0,1,0
-No,No,2.833333333333333,0,300.0,Delivery,Koramangala 4th Block,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Delivery,Koramangala 4th Block,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,200.0,Delivery,Koramangala 4th Block,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,500.0,Delivery,Koramangala 4th Block,1,mixed,1,0,0
 No,No,3.691216896431196,0,400.0,Delivery,Koramangala 4th Block,1,Quick Bites,1,0,0
@@ -28055,7 +28055,7 @@ Yes,No,3.1,6,250.0,Delivery,Koramangala 4th Block,1,Quick Bites,1,0,0
 Yes,No,3.6,23,300.0,Delivery,Koramangala 4th Block,1,Quick Bites,0,0,1
 Yes,No,3.691216896431196,0,300.0,Delivery,Koramangala 4th Block,1,mixed,0,1,0
 Yes,No,3.4,10,400.0,Delivery,Koramangala 4th Block,1,Delivery,1,0,0
-Yes,No,2.333333333333333,0,500.0,Delivery,Koramangala 4th Block,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,Koramangala 4th Block,1,Delivery,0,0,1
 Yes,No,4.666666666666667,0,250.0,Delivery,Koramangala 4th Block,1,Quick Bites,1,0,0
 Yes,No,3.691216896431196,0,500.0,Delivery,Koramangala 4th Block,1,Quick Bites,1,0,0
 Yes,No,4.666666666666667,0,500.0,Delivery,Koramangala 4th Block,1,Quick Bites,1,0,0
@@ -29089,7 +29089,7 @@ Yes,No,3.691216896431196,0,350.0,Dine-out,Koramangala 4th Block,1,Quick Bites,1,
 No,No,3.691216896431196,0,400.0,Dine-out,Koramangala 4th Block,1,Quick Bites,0,0,1
 No,No,3.3,6,200.0,Dine-out,Koramangala 4th Block,1,mixed,0,1,0
 No,No,3.0,32,400.0,Dine-out,Koramangala 4th Block,1,Quick Bites,0,0,1
-No,No,2.833333333333333,0,300.0,Dine-out,Koramangala 4th Block,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Dine-out,Koramangala 4th Block,1,Quick Bites,0,0,1
 No,No,2.0,0,400.0,Dine-out,Koramangala 4th Block,1,mixed,0,1,0
 Yes,No,4.0,0,500.0,Dine-out,Koramangala 4th Block,1,Quick Bites,0,0,1
 No,No,1.0,0,300.0,Dine-out,Koramangala 4th Block,1,Quick Bites,1,0,0
@@ -29689,7 +29689,7 @@ Yes,No,3.9,475,600.0,Delivery,Koramangala 5th Block,1,Casual Dining,1,0,0
 Yes,No,3.6,15,300.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,0,1
 Yes,No,3.6,14,400.0,Delivery,Koramangala 5th Block,1,mixed,0,1,0
 Yes,No,4.0,38,300.0,Delivery,Koramangala 5th Block,1,mixed,0,1,0
-Yes,No,2.333333333333333,0,350.0,Delivery,Koramangala 5th Block,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Delivery,Koramangala 5th Block,1,Bakery,0,1,0
 Yes,No,3.7,17,200.0,Delivery,Koramangala 5th Block,1,Beverage Shop,0,1,0
 Yes,No,4.0,75,400.0,Delivery,Koramangala 5th Block,1,Cafe,0,1,0
 Yes,Yes,4.2,149,900.0,Delivery,Koramangala 5th Block,1,Casual Dining,0,0,1
@@ -30310,7 +30310,7 @@ Yes,No,3.6,115,400.0,Delivery,Koramangala 5th Block,1,Delivery,0,0,1
 Yes,No,2.25,0,600.0,Delivery,Koramangala 5th Block,1,mixed,0,0,1
 Yes,No,3.8,76,300.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,0,1
 Yes,No,3.6,14,200.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,0,1
-Yes,No,2.333333333333333,0,500.0,Delivery,Koramangala 5th Block,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,Koramangala 5th Block,1,Delivery,0,0,1
 Yes,No,3.7,46,600.0,Delivery,Koramangala 5th Block,1,Casual Dining,0,0,1
 Yes,No,3.6,11,200.0,Delivery,Koramangala 5th Block,1,Takeaway,0,1,0
 Yes,No,5.0,0,300.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,1,0
@@ -32756,7 +32756,7 @@ Yes,No,4.0,139,200.0,Delivery,Koramangala 6th Block,1,mixed,0,0,1
 Yes,No,3.4,9,250.0,Delivery,Koramangala 6th Block,1,Quick Bites,1,0,0
 Yes,No,3.3,14,600.0,Delivery,Koramangala 6th Block,1,mixed,1,0,0
 Yes,No,3.5,8,200.0,Delivery,Koramangala 6th Block,1,Beverage Shop,0,1,0
-Yes,No,2.333333333333333,0,350.0,Delivery,Koramangala 6th Block,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Delivery,Koramangala 6th Block,1,Bakery,0,1,0
 Yes,No,3.8,153,500.0,Delivery,Koramangala 6th Block,1,Delivery,0,0,1
 Yes,Yes,4.4,387,1500.0,Delivery,Koramangala 6th Block,1,mixed,0,1,0
 Yes,No,3.4,9,600.0,Delivery,Koramangala 6th Block,1,Casual Dining,0,1,0
@@ -33039,7 +33039,7 @@ Yes,No,2.5,66,350.0,Delivery,Koramangala 6th Block,1,Quick Bites,0,0,1
 Yes,No,3.1,6,600.0,Delivery,Koramangala 6th Block,1,Casual Dining,0,0,1
 Yes,No,3.4,50,300.0,Delivery,Koramangala 6th Block,1,Quick Bites,1,0,0
 Yes,No,3.8,254,600.0,Delivery,Koramangala 6th Block,1,Casual Dining,0,1,0
-Yes,No,2.333333333333333,0,500.0,Delivery,Koramangala 6th Block,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,Koramangala 6th Block,1,Delivery,0,0,1
 Yes,No,3.8,75,200.0,Delivery,Koramangala 6th Block,1,Sweet Shop,0,1,0
 Yes,No,3.7,52,150.0,Delivery,Koramangala 6th Block,1,Quick Bites,0,1,0
 Yes,No,3.4,30,500.0,Delivery,Koramangala 6th Block,1,Delivery,0,1,0
@@ -33105,7 +33105,7 @@ No,No,3.8,47,600.0,Delivery,Koramangala 6th Block,1,Cafe,0,1,0
 Yes,No,3.4,10,650.0,Delivery,Koramangala 6th Block,1,Cafe,0,1,0
 Yes,No,3.8,22,500.0,Delivery,Koramangala 6th Block,1,Cafe,0,1,0
 Yes,No,3.5,6,200.0,Delivery,Koramangala 6th Block,1,Quick Bites,0,0,1
-Yes,No,3.333333333333333,0,350.0,Delivery,Koramangala 6th Block,1,Quick Bites,0,0,1
+Yes,No,3.3333333333333335,0,350.0,Delivery,Koramangala 6th Block,1,Quick Bites,0,0,1
 Yes,No,3.3,4,200.0,Delivery,Koramangala 6th Block,1,Beverage Shop,0,1,0
 Yes,No,3.7,32,900.0,Delivery,Koramangala 6th Block,1,mixed,0,1,0
 Yes,No,3.1,11,500.0,Delivery,Koramangala 6th Block,1,Casual Dining,1,0,0
@@ -35423,7 +35423,7 @@ Yes,No,3.4,9,250.0,Delivery,Koramangala 7th Block,1,Quick Bites,1,0,0
 Yes,No,3.3,14,600.0,Delivery,Koramangala 7th Block,1,mixed,1,0,0
 Yes,No,4.2,349,300.0,Delivery,Koramangala 7th Block,1,Dessert Parlor,0,1,0
 Yes,No,3.5,8,200.0,Delivery,Koramangala 7th Block,1,Beverage Shop,0,1,0
-Yes,No,2.333333333333333,0,350.0,Delivery,Koramangala 7th Block,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Delivery,Koramangala 7th Block,1,Bakery,0,1,0
 Yes,No,3.8,153,500.0,Delivery,Koramangala 7th Block,1,Delivery,0,0,1
 Yes,Yes,4.4,387,1500.0,Delivery,Koramangala 7th Block,1,mixed,0,1,0
 Yes,No,3.4,9,600.0,Delivery,Koramangala 7th Block,1,Casual Dining,0,1,0
@@ -35749,7 +35749,7 @@ Yes,No,3.6,8,200.0,Delivery,Koramangala 7th Block,1,Beverage Shop,0,1,0
 Yes,No,3.4,50,300.0,Delivery,Koramangala 7th Block,1,Quick Bites,1,0,0
 No,No,3.7,73,250.0,Delivery,Koramangala 7th Block,1,Quick Bites,0,0,1
 Yes,No,3.8,254,600.0,Delivery,Koramangala 7th Block,1,Casual Dining,0,1,0
-Yes,No,2.333333333333333,0,500.0,Delivery,Koramangala 7th Block,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,Koramangala 7th Block,1,Delivery,0,0,1
 Yes,No,4.1,92,100.0,Delivery,Koramangala 7th Block,1,Quick Bites,1,0,0
 Yes,No,3.4,30,500.0,Delivery,Koramangala 7th Block,1,Delivery,0,1,0
 Yes,No,3.7,47,800.0,Delivery,Koramangala 7th Block,1,Casual Dining,0,0,1
@@ -36474,7 +36474,7 @@ No,No,5.0,0,300.0,Desserts,Koramangala 7th Block,1,Dessert Parlor,0,1,0
 No,No,3.691216896431196,0,200.0,Desserts,Koramangala 7th Block,1,Quick Bites,0,1,0
 No,No,3.691216896431196,0,600.0,Desserts,Koramangala 7th Block,1,mixed,0,1,0
 No,No,3.691216896431196,0,250.0,Desserts,Koramangala 7th Block,1,mixed,0,1,0
-Yes,No,2.333333333333333,0,350.0,Desserts,Koramangala 7th Block,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,350.0,Desserts,Koramangala 7th Block,1,Bakery,0,1,0
 Yes,No,3.691216896431196,0,400.0,Desserts,Koramangala 7th Block,1,Dessert Parlor,0,0,1
 No,No,3.691216896431196,0,400.0,Desserts,Koramangala 7th Block,1,Cafe,0,1,0
 No,No,3.691216896431196,0,150.0,Desserts,Koramangala 7th Block,0,mixed,0,1,0
@@ -38167,7 +38167,7 @@ Yes,No,3.9,86,1500.0,Delivery,Lavelle Road,1,mixed,0,0,1
 No,No,3.691216896431196,0,300.0,Delivery,Lavelle Road,1,Quick Bites,1,0,0
 No,No,3.6,24,300.0,Delivery,Lavelle Road,1,Quick Bites,0,0,1
 Yes,No,3.5,25,450.0,Delivery,Lavelle Road,1,Casual Dining,0,0,1
-No,No,2.333333333333333,0,300.0,Delivery,Lavelle Road,0,Quick Bites,0,0,1
+No,No,2.3333333333333335,0,300.0,Delivery,Lavelle Road,0,Quick Bites,0,0,1
 Yes,No,3.691216896431196,0,400.0,Delivery,Lavelle Road,1,Quick Bites,1,0,0
 Yes,Yes,4.2,508,800.0,Delivery,Lavelle Road,1,Casual Dining,0,0,1
 No,No,4.5,3589,900.0,Delivery,Lavelle Road,1,Cafe,0,1,0
@@ -39678,7 +39678,7 @@ Yes,No,3.4,7,200.0,Delivery,Malleshwaram,1,Quick Bites,0,0,1
 Yes,No,3.691216896431196,0,350.0,Delivery,Malleshwaram,1,mixed,1,0,0
 Yes,No,3.8,253,800.0,Delivery,Malleshwaram,1,Casual Dining,0,0,1
 No,No,4.2,124,400.0,Delivery,Malleshwaram,1,Food Court,0,1,0
-Yes,No,3.333333333333333,0,200.0,Delivery,Malleshwaram,1,mixed,0,1,0
+Yes,No,3.3333333333333335,0,200.0,Delivery,Malleshwaram,1,mixed,0,1,0
 Yes,No,3.4,221,400.0,Delivery,Malleshwaram,1,Quick Bites,1,0,0
 Yes,No,3.7,39,550.0,Delivery,Malleshwaram,1,Casual Dining,0,0,1
 Yes,No,3.3,13,450.0,Delivery,Malleshwaram,1,Delivery,0,0,1
@@ -40837,7 +40837,7 @@ No,No,3.5,45,400.0,Delivery,Marathahalli,1,Quick Bites,0,0,1
 Yes,No,3.9,772,1000.0,Delivery,Marathahalli,1,Casual Dining,1,0,0
 Yes,No,3.5,30,400.0,Delivery,Marathahalli,1,Bakery,0,1,0
 Yes,No,3.8,40,150.0,Delivery,Marathahalli,1,Dessert Parlor,0,1,0
-Yes,No,3.333333333333333,0,300.0,Delivery,Marathahalli,1,Quick Bites,0,1,0
+Yes,No,3.3333333333333335,0,300.0,Delivery,Marathahalli,1,Quick Bites,0,1,0
 Yes,Yes,4.1,341,600.0,Delivery,Marathahalli,1,Casual Dining,0,0,1
 Yes,Yes,4.6,592,1000.0,Delivery,Marathahalli,1,Casual Dining,0,1,0
 Yes,No,3.9,632,300.0,Delivery,Marathahalli,1,Quick Bites,0,0,1
@@ -41996,7 +41996,7 @@ No,No,3.691216896431196,0,600.0,Dine-out,Marathahalli,1,Casual Dining,0,0,1
 No,No,3.4,28,300.0,Dine-out,Marathahalli,1,mixed,0,1,0
 No,No,3.4,19,200.0,Dine-out,Marathahalli,1,Quick Bites,0,0,1
 No,No,3.6,20,300.0,Dine-out,Marathahalli,1,Quick Bites,1,0,0
-Yes,No,3.333333333333333,0,300.0,Dine-out,Marathahalli,1,Quick Bites,0,1,0
+Yes,No,3.3333333333333335,0,300.0,Dine-out,Marathahalli,1,Quick Bites,0,1,0
 Yes,No,3.2,4,300.0,Dine-out,Marathahalli,1,Quick Bites,1,0,0
 No,No,3.3,6,350.0,Dine-out,Marathahalli,1,Quick Bites,0,0,1
 No,No,3.2,4,500.0,Dine-out,Marathahalli,1,Food Court,0,1,0
@@ -42510,7 +42510,7 @@ Yes,No,4.2,744,750.0,Delivery,MG Road,1,Cafe,0,1,0
 Yes,No,2.9,17,600.0,Delivery,MG Road,1,Quick Bites,1,0,0
 Yes,No,3.7,83,500.0,Delivery,MG Road,1,Casual Dining,0,0,1
 Yes,Yes,4.4,1853,1500.0,Delivery,MG Road,1,Casual Dining,0,1,0
-Yes,No,3.333333333333333,0,200.0,Delivery,MG Road,1,Delivery,0,1,0
+Yes,No,3.3333333333333335,0,200.0,Delivery,MG Road,1,Delivery,0,1,0
 Yes,No,4.2,233,300.0,Delivery,MG Road,1,mixed,0,1,0
 Yes,No,3.7,23,100.0,Delivery,MG Road,1,Quick Bites,0,0,1
 Yes,No,3.1,19,300.0,Delivery,MG Road,1,Quick Bites,0,1,0
@@ -42934,7 +42934,7 @@ No,No,3.691216896431196,0,300.0,Delivery,MG Road,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,555.5920026514856,Delivery,MG Road,0,mixed,1,0,0
 No,No,3.6,16,300.0,Delivery,MG Road,0,Delivery,1,0,0
 Yes,No,4.6,0,500.0,Delivery,MG Road,1,Quick Bites,1,0,0
-No,No,2.333333333333333,0,300.0,Delivery,MG Road,0,Quick Bites,0,0,1
+No,No,2.3333333333333335,0,300.0,Delivery,MG Road,0,Quick Bites,0,0,1
 Yes,Yes,3.8,200,1600.0,Delivery,MG Road,1,Casual Dining,0,1,0
 No,No,3.5,140,600.0,Delivery,MG Road,1,Casual Dining,1,0,0
 Yes,Yes,4.3,1054,1600.0,Delivery,MG Road,1,Casual Dining,0,1,0
@@ -43562,7 +43562,7 @@ Yes,No,2.5,34,600.0,Dine-out,MG Road,0,Quick Bites,0,1,0
 No,No,3.5,0,200.0,Dine-out,MG Road,1,Quick Bites,1,0,0
 No,No,5.0,0,300.0,Dine-out,MG Road,0,Quick Bites,0,0,1
 Yes,No,2.5,0,400.0,Dine-out,MG Road,1,mixed,0,1,0
-No,No,2.333333333333333,0,300.0,Dine-out,MG Road,0,Quick Bites,0,0,1
+No,No,2.3333333333333335,0,300.0,Dine-out,MG Road,0,Quick Bites,0,0,1
 No,No,3.0,22,200.0,Dine-out,MG Road,1,Quick Bites,0,1,0
 No,No,3.5,17,100.0,Dine-out,MG Road,1,Quick Bites,1,0,0
 No,No,3.6,25,250.0,Dine-out,MG Road,1,Quick Bites,0,1,0
@@ -45058,7 +45058,7 @@ Yes,No,4.3,397,700.0,Delivery,Old Airport Road,1,Cafe,0,1,0
 No,No,4.3,700,555.5920026514856,Delivery,Old Airport Road,0,mixed,0,0,1
 Yes,No,3.9,190,250.0,Delivery,Old Airport Road,1,Quick Bites,0,1,0
 Yes,No,1.0,0,200.0,Delivery,Old Airport Road,1,Dessert Parlor,0,1,0
-Yes,No,3.333333333333333,0,200.0,Delivery,Old Airport Road,1,Delivery,0,1,0
+Yes,No,3.3333333333333335,0,200.0,Delivery,Old Airport Road,1,Delivery,0,1,0
 No,No,3.6,20,300.0,Delivery,Old Airport Road,1,Quick Bites,1,0,0
 Yes,No,3.691216896431196,0,100.0,Delivery,Old Airport Road,1,Quick Bites,0,1,0
 Yes,No,3.2,6,450.0,Delivery,Old Airport Road,1,Quick Bites,0,0,1
@@ -46421,7 +46421,7 @@ No,No,3.691216896431196,0,200.0,Delivery,Rajajinagar,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,300.0,Delivery,Rajajinagar,0,Quick Bites,1,0,0
 No,No,3.691216896431196,0,300.0,Delivery,Rajajinagar,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,400.0,Delivery,Rajajinagar,1,Delivery,1,0,0
-Yes,No,3.333333333333333,0,200.0,Delivery,Rajajinagar,1,mixed,0,1,0
+Yes,No,3.3333333333333335,0,200.0,Delivery,Rajajinagar,1,mixed,0,1,0
 No,No,3.5,37,300.0,Delivery,Rajajinagar,1,Quick Bites,1,0,0
 Yes,No,3.4,22,300.0,Delivery,Rajajinagar,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,300.0,Delivery,Rajajinagar,1,Bakery,0,1,0
@@ -47671,7 +47671,7 @@ Yes,Yes,4.3,3498,1700.0,Delivery,Residency Road,1,mixed,0,1,0
 No,No,3.3,11,400.0,Delivery,Residency Road,1,Quick Bites,0,0,1
 Yes,No,3.8,169,250.0,Delivery,Residency Road,1,Quick Bites,1,0,0
 No,No,3.1,32,200.0,Delivery,Residency Road,1,Quick Bites,1,0,0
-No,No,2.333333333333333,0,300.0,Delivery,Residency Road,0,Quick Bites,0,0,1
+No,No,2.3333333333333335,0,300.0,Delivery,Residency Road,0,Quick Bites,0,0,1
 No,No,3.691216896431196,0,250.0,Delivery,Residency Road,0,mixed,1,0,0
 No,Yes,4.4,2055,1200.0,Delivery,Residency Road,1,mixed,0,1,0
 No,No,3.6,24,300.0,Delivery,Residency Road,1,Quick Bites,0,0,1
@@ -50055,7 +50055,7 @@ Yes,No,3.2,55,300.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 Yes,No,3.8,184,400.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 Yes,No,4.1,222,250.0,Delivery,Whitefield,1,Kiosk,0,0,1
 Yes,No,3.8,40,300.0,Delivery,Whitefield,1,Quick Bites,1,0,0
-Yes,No,2.333333333333333,0,450.0,Delivery,Whitefield,1,Takeaway,0,0,1
+Yes,No,2.3333333333333335,0,450.0,Delivery,Whitefield,1,Takeaway,0,0,1
 Yes,No,4.0,184,500.0,Delivery,Whitefield,1,Bakery,0,1,0
 Yes,No,4.0,181,500.0,Delivery,Whitefield,1,Bakery,0,1,0
 Yes,Yes,4.0,364,700.0,Delivery,Whitefield,1,Casual Dining,0,0,1
@@ -50330,7 +50330,7 @@ Yes,Yes,4.1,1218,1200.0,Delivery,Whitefield,1,Pub,0,1,0
 Yes,No,3.691216896431196,0,350.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 Yes,No,3.691216896431196,0,100.0,Delivery,Whitefield,1,Beverage Shop,0,1,0
 Yes,No,3.7,92,400.0,Delivery,Whitefield,1,Quick Bites,0,0,1
-Yes,No,2.333333333333333,0,400.0,Delivery,Whitefield,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,400.0,Delivery,Whitefield,1,Bakery,0,1,0
 Yes,No,2.6,60,600.0,Delivery,Whitefield,1,Food Court,0,0,1
 Yes,No,3.4,252,400.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 No,No,3.3,82,500.0,Delivery,Whitefield,1,Food Court,0,1,0
@@ -50364,7 +50364,7 @@ No,No,3.9,141,700.0,Delivery,Whitefield,1,Casual Dining,0,0,1
 No,No,3.4,67,450.0,Delivery,Whitefield,1,Quick Bites,1,0,0
 Yes,No,3.7,88,300.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 Yes,No,4.0,46,450.0,Delivery,Whitefield,1,Quick Bites,0,1,0
-Yes,No,3.333333333333333,0,400.0,Delivery,Whitefield,1,mixed,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Delivery,Whitefield,1,mixed,0,0,1
 Yes,No,3.8,20,700.0,Delivery,Whitefield,1,Food Court,0,1,0
 No,No,3.8,44,150.0,Delivery,Whitefield,1,Quick Bites,0,1,0
 Yes,No,3.2,21,400.0,Delivery,Whitefield,1,mixed,0,0,1
@@ -50525,7 +50525,7 @@ No,No,3.691216896431196,0,250.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 No,No,4.75,0,400.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 No,No,4.5,0,200.0,Delivery,Whitefield,1,Quick Bites,0,0,1
 No,No,4.0,0,555.5920026514856,Delivery,Whitefield,0,Casual Dining,0,0,1
-No,No,3.333333333333333,0,600.0,Delivery,Whitefield,1,mixed,0,1,0
+No,No,3.3333333333333335,0,600.0,Delivery,Whitefield,1,mixed,0,1,0
 No,No,3.691216896431196,0,500.0,Delivery,Whitefield,1,Quick Bites,0,1,0
 No,No,3.0,0,350.0,Delivery,Whitefield,1,Quick Bites,1,0,0
 No,No,4.25,0,500.0,Delivery,Whitefield,1,Quick Bites,0,0,1
@@ -50897,7 +50897,7 @@ No,No,3.691216896431196,0,400.0,Desserts,Whitefield,1,Delivery,0,1,0
 No,No,3.691216896431196,0,300.0,Desserts,Whitefield,1,Sweet Shop,0,1,0
 No,No,3.691216896431196,0,900.0,Desserts,Whitefield,0,Cafe,0,1,0
 No,No,3.691216896431196,0,500.0,Desserts,Whitefield,1,Pop Up,0,1,0
-Yes,No,2.333333333333333,0,400.0,Desserts,Whitefield,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,400.0,Desserts,Whitefield,1,Bakery,0,1,0
 Yes,No,3.691216896431196,0,600.0,Desserts,Whitefield,1,Bakery,0,1,0
 Yes,No,1.3333333333333333,0,200.0,Desserts,Whitefield,1,mixed,0,1,0
 Yes,No,3.691216896431196,0,400.0,Desserts,Whitefield,1,Dessert Parlor,0,1,0
@@ -51338,7 +51338,7 @@ No,No,3.691216896431196,0,250.0,Dine-out,Whitefield,1,Quick Bites,0,0,1
 No,No,5.0,0,250.0,Dine-out,Whitefield,1,Quick Bites,1,0,0
 No,No,4.75,0,400.0,Dine-out,Whitefield,1,Quick Bites,0,0,1
 No,No,4.5,0,200.0,Dine-out,Whitefield,1,Quick Bites,0,0,1
-No,No,3.333333333333333,0,600.0,Dine-out,Whitefield,1,mixed,0,1,0
+No,No,3.3333333333333335,0,600.0,Dine-out,Whitefield,1,mixed,0,1,0
 No,No,2.5,0,400.0,Dine-out,Whitefield,1,Quick Bites,0,0,1
 No,No,3.5,0,600.0,Dine-out,Whitefield,1,Food Court,0,1,0
 No,No,1.0,0,400.0,Dine-out,Whitefield,1,Quick Bites,0,0,1

@@ -40,3 +40,23 @@ if __name__=="__main__":
 if __name__=="__main__":
     obj = DataIngestion()
     obj.initiate_data_ingestion()
+* Run the data_ingestion.py file
+17) In the data_transformation.py file, write the code to handle categorical and numerical features, create a pickle file.
+* write the following code at the end of data_ingestion.py file to test this file (delete these lines of code after checking)
+if __name__=="__main__":
+    obj = DataIngestion()
+    train_data, test_data = obj.initiate_data_ingestion()
+    data_transformation = DataTransformation()
+    data_transformation.initiate_data_transformation(train_data, test_data)
+18) Getting the Error while running python data_ingestion.py
+src.exception.CustomException: Error occured in python script name [c:\ineuron\internships\1_restaurant_rating_prediction\final\src\components\data_transformation.py], line number [94], error message [all the input array dimensions except for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 1 and the array at index 1 has size 41287]
+19) Inorder to get rid of this error convert input_feature_train_arr and input_feature_test_arr into numpy array since its type is scipy.sparse.csr.csr_matrix
+20) In model_trainer.py file, write the code to train the model using different algorithms.
+* write the following code at the end of data_ingestion.py file to test this file (delete these lines of code after checking)
+if __name__=="__main__":
+    obj = DataIngestion()
+    train_data, test_data = obj.initiate_data_ingestion()
+    data_transformation = DataTransformation()
+    train_arr, test_arr, _ = data_transformation.initiate_data_transformation(train_data, test_data)
+    model_trainer = ModelTrainer()
+    print(model_trainer.initiate_model_trainer(train_arr, test_arr))

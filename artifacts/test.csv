@@ -1317,7 +1317,7 @@ Yes,No,3.8,884,500.0,Dine-out,Koramangala 6th Block,1,Quick Bites,0,0,1
 Yes,No,4.1,118,500.0,Delivery,Lavelle Road,1,mixed,0,1,0
 Yes,No,4.0,25,200.0,Delivery,BTM,1,Beverage Shop,0,1,0
 No,No,4.5,0,650.0,Delivery,Bannerghatta Road,1,Casual Dining,0,0,1
-No,Yes,3.899053627760253,0,1500.0,Drinks & nightlife,BTM,1,mixed,0,0,1
+No,Yes,3.8990536277602525,0,1500.0,Drinks & nightlife,BTM,1,mixed,0,0,1
 No,No,3.7,14,500.0,Delivery,Kalyan Nagar,1,Casual Dining,1,0,0
 No,No,3.4,8,200.0,Delivery,Brookefield,1,Sweet Shop,0,1,0
 No,Yes,4.2,172,1500.0,Delivery,Indiranagar,1,mixed,0,1,0
@@ -1600,7 +1600,7 @@ No,No,3.691216896431196,0,300.0,Delivery,Electronic City,1,Quick Bites,0,1,0
 No,No,3.6,14,300.0,Delivery,BTM,1,Delivery,0,0,1
 Yes,No,4.0,60,300.0,Delivery,Koramangala 6th Block,1,Dessert Parlor,0,1,0
 No,No,3.6,15,300.0,Delivery,Old Airport Road,1,Delivery,0,0,1
-Yes,No,2.333333333333333,0,450.0,Delivery,Whitefield,1,Takeaway,0,0,1
+Yes,No,2.3333333333333335,0,450.0,Delivery,Whitefield,1,Takeaway,0,0,1
 Yes,No,4.4,1087,600.0,Desserts,Brigade Road,1,mixed,0,1,0
 No,No,4.2,115,1000.0,Dine-out,Church Street,1,mixed,0,1,0
 Yes,No,3.1,4,250.0,Delivery,Whitefield,1,mixed,1,0,0
@@ -1612,7 +1612,7 @@ Yes,No,3.691216896431196,0,250.0,Delivery,Indiranagar,1,Quick Bites,1,0,0
 Yes,No,3.9,60,400.0,Delivery,Basavanagudi,1,mixed,0,1,0
 No,Yes,4.0,170,1900.0,Dine-out,Indiranagar,1,Fine Dining,0,1,0
 Yes,No,3.0,0,200.0,Delivery,BTM,1,Quick Bites,0,0,1
-No,No,2.833333333333333,0,300.0,Dine-out,HSR,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Dine-out,HSR,1,Quick Bites,0,0,1
 Yes,No,3.3,28,400.0,Delivery,Bannerghatta Road,1,mixed,1,0,0
 Yes,No,3.691216896431196,0,600.0,Delivery,Koramangala 5th Block,1,Delivery,0,0,1
 No,No,3.691216896431196,0,300.0,Delivery,Lavelle Road,1,Quick Bites,0,0,1
@@ -3218,7 +3218,7 @@ No,Yes,4.4,2041,1200.0,Drinks & nightlife,Church Street,1,mixed,0,1,0
 No,No,3.7,27,350.0,Delivery,BTM,1,Delivery,0,0,1
 Yes,No,3.5,25,500.0,Delivery,Old Airport Road,1,Dessert Parlor,0,1,0
 Yes,No,3.7,26,600.0,Dine-out,BTM,1,Casual Dining,0,0,1
-No,No,2.333333333333333,0,300.0,Delivery,MG Road,0,Quick Bites,0,0,1
+No,No,2.3333333333333335,0,300.0,Delivery,MG Road,0,Quick Bites,0,0,1
 Yes,Yes,4.3,1055,1600.0,Buffet,Residency Road,1,Casual Dining,0,1,0
 Yes,No,3.4,252,400.0,Dine-out,Whitefield,1,Quick Bites,0,0,1
 Yes,Yes,4.4,1420,1100.0,Delivery,Indiranagar,1,mixed,1,0,0
@@ -3419,7 +3419,7 @@ Yes,No,3.5,16,500.0,Delivery,Whitefield,1,Quick Bites,1,0,0
 Yes,No,4.1,511,500.0,Desserts,Koramangala 7th Block,1,Dessert Parlor,0,1,0
 Yes,No,3.8,77,650.0,Delivery,Banashankari,1,Cafe,0,1,0
 No,No,3.7,82,2500.0,Dine-out,MG Road,1,Fine Dining,0,1,0
-No,No,3.905405405405405,0,1200.0,Dine-out,HSR,1,mixed,0,0,1
+No,No,3.9054054054054053,0,1200.0,Dine-out,HSR,1,mixed,0,0,1
 Yes,No,1.0,0,500.0,Delivery,Bannerghatta Road,1,Delivery,1,0,0
 No,No,3.7,21,250.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,1,0
 Yes,No,3.5,108,750.0,Dine-out,Rajajinagar,1,Quick Bites,0,1,0
@@ -3745,7 +3745,7 @@ Yes,No,3.7,66,400.0,Delivery,JP Nagar,1,Quick Bites,0,0,1
 No,No,3.1,21,200.0,Dine-out,BTM,0,Quick Bites,0,0,1
 Yes,Yes,4.1,587,1200.0,Dine-out,BTM,1,mixed,0,0,1
 Yes,No,3.7,48,250.0,Delivery,Sarjapur Road,1,Dessert Parlor,0,1,0
-No,No,3.768518518518519,0,1200.0,Pubs and bars,HSR,1,mixed,0,0,1
+No,No,3.7685185185185186,0,1200.0,Pubs and bars,HSR,1,mixed,0,0,1
 Yes,No,3.7,26,700.0,Dine-out,BTM,1,Casual Dining,0,0,1
 No,No,3.1,30,450.0,Delivery,Marathahalli,1,mixed,0,0,1
 Yes,No,3.1,320,700.0,Delivery,Jayanagar,1,Casual Dining,0,0,1
@@ -3896,7 +3896,7 @@ Yes,No,3.9,200,400.0,Delivery,BTM,1,Quick Bites,0,0,1
 No,No,3.7,38,350.0,Dine-out,Basavanagudi,1,Quick Bites,0,0,1
 No,No,2.9,46,550.0,Dine-out,Brigade Road,1,Casual Dining,0,0,1
 Yes,No,3.9,55,300.0,Delivery,MG Road,1,Dessert Parlor,0,1,0
-No,Yes,2.333333333333333,0,1600.0,Dine-out,Electronic City,1,Microbrewery,0,1,0
+No,Yes,2.3333333333333335,0,1600.0,Dine-out,Electronic City,1,Microbrewery,0,1,0
 Yes,No,3.2,34,1000.0,Dine-out,Bellandur,1,mixed,1,0,0
 Yes,No,3.7,132,250.0,Dine-out,JP Nagar,1,Quick Bites,0,0,1
 Yes,Yes,4.1,80,1200.0,Dine-out,Indiranagar,1,Casual Dining,1,0,0
@@ -4510,7 +4510,7 @@ Yes,No,3.3,8,350.0,Delivery,Malleshwaram,1,Quick Bites,1,0,0
 No,No,4.0,0,450.0,Delivery,Kammanahalli,1,Quick Bites,0,0,1
 Yes,Yes,3.9,74,900.0,Delivery,Koramangala 5th Block,1,Casual Dining,0,0,1
 No,No,3.691216896431196,6,800.0,Dine-out,Jayanagar,1,Casual Dining,0,0,1
-No,Yes,2.333333333333333,0,1200.0,Buffet,HSR,1,Casual Dining,0,0,1
+No,Yes,2.3333333333333335,0,1200.0,Buffet,HSR,1,Casual Dining,0,0,1
 Yes,No,3.4,9,200.0,Dine-out,Indiranagar,1,Quick Bites,0,1,0
 Yes,No,3.9,240,700.0,Dine-out,Basavanagudi,1,Cafe,0,1,0
 Yes,Yes,4.3,548,1000.0,Delivery,Koramangala 4th Block,1,mixed,0,0,1
@@ -4533,10 +4533,10 @@ Yes,No,3.4,23,300.0,Delivery,Indiranagar,1,Quick Bites,0,0,1
 Yes,Yes,4.0,347,1000.0,Delivery,BTM,1,Casual Dining,0,0,1
 Yes,No,3.8,63,350.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,1,0
 No,No,3.691216896431196,0,200.0,Delivery,JP Nagar,1,Beverage Shop,0,1,0
-Yes,No,3.333333333333333,0,200.0,Delivery,Malleshwaram,1,mixed,0,1,0
+Yes,No,3.3333333333333335,0,200.0,Delivery,Malleshwaram,1,mixed,0,1,0
 Yes,No,3.7,214,700.0,Delivery,Kalyan Nagar,1,Casual Dining,0,0,1
 Yes,No,3.9,400,850.0,Delivery,HSR,1,Casual Dining,0,1,0
-Yes,No,2.333333333333333,0,300.0,Delivery,Church Street,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Delivery,Church Street,0,Quick Bites,0,0,1
 Yes,No,3.7,67,300.0,Delivery,Jayanagar,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,150.0,Delivery,Church Street,1,Quick Bites,1,0,0
 No,No,3.691216896431196,0,200.0,Delivery,Malleshwaram,1,Beverage Shop,0,1,0
@@ -4950,7 +4950,7 @@ No,No,4.1,57,800.0,Dine-out,Indiranagar,1,Casual Dining,0,1,0
 Yes,No,3.6,29,100.0,Delivery,Koramangala 6th Block,1,Beverage Shop,0,1,0
 No,No,4.0,0,300.0,Dine-out,Kalyan Nagar,1,Quick Bites,1,0,0
 Yes,No,4.2,450,400.0,Delivery,BTM,1,Cafe,0,1,0
-No,Yes,3.071428571428572,1168,1100.0,Dine-out,Jayanagar,1,mixed,0,0,1
+No,Yes,3.0714285714285716,1168,1100.0,Dine-out,Jayanagar,1,mixed,0,0,1
 Yes,Yes,3.8,157,600.0,Dine-out,Bellandur,1,Casual Dining,0,1,0
 Yes,Yes,3.7,837,1100.0,Dine-out,Whitefield,1,mixed,0,0,1
 No,No,3.691216896431196,0,100.0,Dine-out,Lavelle Road,1,Mess,1,0,0
@@ -5004,7 +5004,7 @@ Yes,No,4.0,152,400.0,Delivery,Bellandur,1,Sweet Shop,0,1,0
 Yes,No,2.8,152,700.0,Delivery,Koramangala 6th Block,1,Casual Dining,0,0,1
 No,No,3.3,16,200.0,Dine-out,Electronic City,1,Mess,1,0,0
 Yes,No,3.6,17,300.0,Dine-out,Banashankari,1,Quick Bites,0,1,0
-Yes,No,3.333333333333333,0,300.0,Delivery,Brookefield,1,Quick Bites,0,1,0
+Yes,No,3.3333333333333335,0,300.0,Delivery,Brookefield,1,Quick Bites,0,1,0
 Yes,No,3.5,226,300.0,Dine-out,New BEL Road,1,Quick Bites,1,0,0
 No,No,2.8,41,400.0,Delivery,Electronic City,1,Quick Bites,0,0,1
 No,No,3.691216896431196,0,500.0,Delivery,Koramangala 7th Block,1,mixed,0,1,0
@@ -5437,7 +5437,7 @@ No,No,3.691216896431196,0,250.0,Delivery,Marathahalli,1,Quick Bites,1,0,0
 No,No,3.3,7,250.0,Dine-out,Koramangala 4th Block,1,Quick Bites,0,0,1
 Yes,No,3.9,44,300.0,Dine-out,Koramangala 6th Block,1,Quick Bites,1,0,0
 Yes,No,4.5,0,300.0,Delivery,Basavanagudi,1,Quick Bites,0,0,1
-Yes,No,2.333333333333333,0,300.0,Dine-out,Church Street,0,Quick Bites,0,0,1
+Yes,No,2.3333333333333335,0,300.0,Dine-out,Church Street,0,Quick Bites,0,0,1
 Yes,No,3.3,6,500.0,Delivery,Whitefield,1,Sweet Shop,0,1,0
 Yes,Yes,3.8,818,750.0,Buffet,Brookefield,1,mixed,1,0,0
 Yes,No,3.6,21,300.0,Dine-out,Koramangala 5th Block,1,Quick Bites,0,0,1
@@ -6582,7 +6582,7 @@ Yes,No,3.5,21,200.0,Dine-out,Residency Road,1,Quick Bites,0,0,1
 Yes,No,3.0,7,400.0,Dine-out,Koramangala 4th Block,1,Quick Bites,0,1,0
 Yes,No,2.8,20,250.0,Delivery,Bellandur,1,mixed,0,1,0
 No,No,3.691216896431196,0,250.0,Delivery,JP Nagar,1,Quick Bites,0,1,0
-Yes,No,2.333333333333333,0,400.0,Delivery,Brookefield,1,Bakery,0,1,0
+Yes,No,2.3333333333333335,0,400.0,Delivery,Brookefield,1,Bakery,0,1,0
 No,No,3.5,0,100.0,Dine-out,Brigade Road,1,Quick Bites,1,0,0
 Yes,No,3.7,51,300.0,Dine-out,Jayanagar,1,Quick Bites,1,0,0
 Yes,No,3.6,22,350.0,Delivery,Jayanagar,1,Quick Bites,1,0,0
@@ -8182,7 +8182,7 @@ Yes,No,5.0,0,600.0,Dine-out,HSR,1,Casual Dining,1,0,0
 Yes,No,3.1,9,250.0,Desserts,Brookefield,1,Dessert Parlor,0,1,0
 No,No,3.8,43,250.0,Dine-out,Marathahalli,1,Quick Bites,1,0,0
 No,No,3.0,0,400.0,Dine-out,Sarjapur Road,1,Quick Bites,0,0,1
-Yes,No,3.333333333333333,0,300.0,Dine-out,Marathahalli,1,Quick Bites,0,1,0
+Yes,No,3.3333333333333335,0,300.0,Dine-out,Marathahalli,1,Quick Bites,0,1,0
 Yes,No,3.5,20,150.0,Delivery,Koramangala 6th Block,1,Beverage Shop,0,1,0
 No,No,3.7,32,500.0,Delivery,Church Street,1,Quick Bites,0,1,0
 No,No,3.691216896431196,0,400.0,Delivery,Koramangala 7th Block,1,Quick Bites,0,0,1
@@ -8247,7 +8247,7 @@ Yes,No,4.0,571,400.0,Desserts,Old Airport Road,1,mixed,0,1,0
 No,Yes,4.2,426,1800.0,Dine-out,New BEL Road,1,mixed,0,0,1
 Yes,Yes,4.2,325,800.0,Dine-out,BTM,1,Casual Dining,0,0,1
 No,No,3.9,153,350.0,Dine-out,Basavanagudi,1,Casual Dining,1,0,0
-No,Yes,3.842105263157895,0,1700.0,Dine-out,Indiranagar,1,mixed,0,1,0
+No,Yes,3.8421052631578947,0,1700.0,Dine-out,Indiranagar,1,mixed,0,1,0
 No,No,3.691216896431196,0,300.0,Dine-out,Brigade Road,1,Quick Bites,1,0,0
 Yes,Yes,4.2,2291,1400.0,Delivery,MG Road,1,mixed,0,0,1
 No,No,3.691216896431196,0,200.0,Delivery,Bannerghatta Road,1,Quick Bites,1,0,0
@@ -8786,7 +8786,7 @@ No,No,5.0,0,600.0,Cafes,Bannerghatta Road,1,Cafe,0,1,0
 No,No,3.691216896431196,0,300.0,Delivery,Whitefield,1,mixed,0,1,0
 Yes,No,3.6,34,300.0,Dine-out,Koramangala 5th Block,1,Casual Dining,0,0,1
 Yes,No,3.8,28,150.0,Dine-out,Banashankari,1,Quick Bites,0,1,0
-No,No,2.833333333333333,0,300.0,Delivery,HSR,1,Quick Bites,0,0,1
+No,No,2.8333333333333335,0,300.0,Delivery,HSR,1,Quick Bites,0,0,1
 No,No,3.7,15,2000.0,Drinks & nightlife,Lavelle Road,1,mixed,0,0,1
 Yes,No,2.0,0,400.0,Delivery,Koramangala 4th Block,1,Quick Bites,0,0,1
 Yes,No,3.691216896431196,0,300.0,Delivery,Koramangala 5th Block,1,Delivery,0,1,0
@@ -9229,7 +9229,7 @@ No,No,3.8,38,300.0,Dine-out,Residency Road,1,Quick Bites,0,1,0
 No,No,3.8,63,500.0,Dine-out,Koramangala 6th Block,1,Cafe,0,1,0
 No,No,3.6,11,200.0,Delivery,Basavanagudi,1,Quick Bites,0,1,0
 Yes,No,3.3,6,500.0,Dine-out,Lavelle Road,1,Quick Bites,0,1,0
-Yes,No,3.7142857142857135,0,350.0,Delivery,BTM,1,Quick Bites,0,1,0
+Yes,No,3.7142857142857144,0,350.0,Delivery,BTM,1,Quick Bites,0,1,0
 No,No,3.6,74,600.0,Dine-out,Frazer Town,1,Quick Bites,0,1,0
 No,Yes,4.2,341,1000.0,Dine-out,Residency Road,1,mixed,1,0,0
 Yes,No,3.9,316,300.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,0,1
@@ -9696,7 +9696,7 @@ Yes,No,4.0,0,300.0,Delivery,BTM,1,Quick Bites,1,0,0
 No,Yes,4.0,776,1000.0,Buffet,Old Airport Road,1,mixed,1,0,0
 Yes,No,3.8,172,550.0,Delivery,Koramangala 7th Block,1,Casual Dining,0,0,1
 No,No,5.0,0,250.0,Dine-out,Indiranagar,1,Quick Bites,0,1,0
-No,No,2.333333333333333,0,300.0,Delivery,Residency Road,0,Quick Bites,0,0,1
+No,No,2.3333333333333335,0,300.0,Delivery,Residency Road,0,Quick Bites,0,0,1
 Yes,No,3.7,10,250.0,Dine-out,Sarjapur Road,1,Quick Bites,0,1,0
 No,No,4.6,342,400.0,Desserts,BTM,1,mixed,0,1,0
 Yes,No,3.6,44,300.0,Delivery,Brigade Road,1,Kiosk,1,0,0
@@ -10053,7 +10053,7 @@ Yes,No,4.0,827,500.0,Dine-out,Bannerghatta Road,1,Casual Dining,1,0,0
 Yes,No,3.4,360,350.0,Delivery,Residency Road,1,Quick Bites,1,0,0
 No,No,3.8,27,450.0,Dine-out,Koramangala 7th Block,1,Cafe,0,1,0
 Yes,No,4.0,559,600.0,Dine-out,New BEL Road,1,Quick Bites,0,1,0
-Yes,No,3.333333333333333,0,400.0,Delivery,Brigade Road,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Delivery,Brigade Road,1,Food Court,0,0,1
 No,No,3.9,116,500.0,Dine-out,Whitefield,1,Quick Bites,0,1,0
 Yes,No,3.8,72,300.0,Desserts,Sarjapur Road,1,Kiosk,0,1,0
 No,Yes,4.3,104,1000.0,Buffet,BTM,1,Casual Dining,0,0,1
@@ -10170,7 +10170,7 @@ No,No,3.7,17,200.0,Desserts,Church Street,1,Dessert Parlor,0,1,0
 Yes,No,3.8,263,700.0,Delivery,Residency Road,1,Cafe,0,1,0
 No,No,4.5,198,600.0,Dine-out,Indiranagar,1,Cafe,0,1,0
 No,No,3.691216896431196,0,200.0,Dine-out,Brookefield,1,Quick Bites,1,0,0
-Yes,No,2.333333333333333,0,500.0,Delivery,Koramangala 7th Block,1,Delivery,0,0,1
+Yes,No,2.3333333333333335,0,500.0,Delivery,Koramangala 7th Block,1,Delivery,0,0,1
 No,No,4.5,1181,900.0,Delivery,Kalyan Nagar,1,mixed,0,1,0
 Yes,No,2.8,89,500.0,Dine-out,Whitefield,1,Food Court,0,1,0
 Yes,No,3.4,84,300.0,Delivery,Koramangala 5th Block,1,Quick Bites,0,0,1
@@ -10242,7 +10242,7 @@ Yes,Yes,4.4,190,1000.0,Cafes,HSR,1,Cafe,0,1,0
 Yes,No,4.1,262,700.0,Delivery,Sarjapur Road,1,Casual Dining,0,0,1
 Yes,No,3.7,24,200.0,Dine-out,Whitefield,1,Quick Bites,0,1,0
 Yes,No,4.0,277,700.0,Dine-out,Indiranagar,1,Casual Dining,0,0,1
-Yes,No,3.333333333333333,0,400.0,Delivery,Indiranagar,1,Food Court,0,0,1
+Yes,No,3.3333333333333335,0,400.0,Delivery,Indiranagar,1,Food Court,0,0,1
 Yes,Yes,4.4,103,700.0,Delivery,Koramangala 6th Block,1,Cafe,0,1,0
 Yes,No,4.0,32,300.0,Dine-out,Lavelle Road,1,Quick Bites,0,0,1
 Yes,No,4.2,970,1100.0,Delivery,Indiranagar,1,Casual Dining,0,1,0
